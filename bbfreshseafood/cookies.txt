@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+bbfreshseafood.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_ad85b77a64224b8c9dde56bdc0abf226	t_cad2122557652d7fef6a22cd400925%7C1756890591%7C1756804191%7C%24generic%24CnzWzazLynFX67FBSiKcRE5trqG9EDxU8qRLg18l
+bbfreshseafood.com	TRUE	/	FALSE	1999999999	_lscache_vary	5253ad7591e7079be24731efae29a1eb
+bbfreshseafood.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+bbfreshseafood.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	c6927842be3ad451febfaa67e9b2ff0a
+bbfreshseafood.com	TRUE	/	FALSE	1999999999	wcboost_wishlist_session	b17571c0f66ffd92088f58e711896696
+bbfreshseafood.com	TRUE	/	FALSE	1999999999	woocommerce_recently_viewed	11924%7C11948%7C11953%7C11908%7C12023%7C12031%7C12012%7C12014%7C12006%7C12004%7C11942%7C12028%7C11989%7C11921%7C12025
+bbfreshseafood.com	TRUE	/	FALSE	1999999999	wcboost_compare_hash	e2d846027c69f399732163c9edc1c77b
+bbfreshseafood.com	TRUE	/	FALSE	1999999999	wcboost_wishlist_hash	0d06514e8cde9c4845da9a4be305338e%3A%3Acfcd208495d565ef66e7dff9f98764da
+

@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+olami.com.ng	TRUE	/shop/	FALSE	1999999999	wp_woocommerce_session_cf6007a1c955f386e07042d7b2839c50	t_a4c95623d021114235f5a9ff4cdfdc%7C%7C1749756735%7C%7C1749753135%7C%7C117d9a3c74df3fbf847e15004e296324
+olami.com.ng	TRUE	/shop/	FALSE	1999999999	woocommerce_items_in_cart	1
+olami.com.ng	TRUE	/shop/	FALSE	1999999999	wcboost_wishlist_session	33c87f5ecef46683c8830c3f3883d214
+olami.com.ng	TRUE	/shop/	FALSE	1999999999	woocommerce_cart_hash	336ea7dc624b3e47730f8ccf9bcfd90e
+olami.com.ng	TRUE	/shop/	FALSE	1999999999	woocommerce_recently_viewed	6718%7C6780%7C951%7C955%7C6719%7C950%7C958%7C6831%7C952%7C948%7C957%7C954%7C956%7C966%7C6787
+olami.com.ng	TRUE	/shop/	FALSE	1999999999	wcboost_compare_hash	deleted
+olami.com.ng	TRUE	/shop/	FALSE	1999999999	wcboost_wishlist_hash	6774fc9f170fe31978912a696e265146%3A%3A72938af6e8b1c2acafef554fe256214d
+olami.com.ng	TRUE	/	FALSE	1999999999	PHPSESSID	2a2574b11a1d061bddc2cd3353c388e6
+olami.com.ng	TRUE	/	FALSE	1999999999	_lscache_vary	50f4ea0196b0ce65392bdf6098a174b7
+

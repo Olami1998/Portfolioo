@@ -1,0 +1,656 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from olami1998.github.io/AgesFoodBakery/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Sep 2025 08:31:54 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ages Food Bakery - Artisan Breads & Pastries</title>
+    <script src="https://cdn.tailwindcss.com/"></script>
+    <link rel="stylesheet" href="../../cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&amp;family=Poppins:wght@300;400;600&amp;display=swap');
+        
+        body {
+            font-family: 'Poppins', sans-serif;
+            scroll-behavior: smooth;
+        }
+        
+        .hero {
+            background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1608198093002-ad4e005484ec?ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;w=1632&amp;q=80');
+            background-size: cover;
+            background-position: center;
+        }
+        
+        .title-font {
+            font-family: 'Playfair Display', serif;
+        }
+        
+        .menu-item:hover .menu-overlay {
+            opacity: 1;
+        }
+        
+        .menu-overlay {
+            transition: all 0.3s ease;
+        }
+        
+        .breadcrumb {
+            background: url('https://images.unsplash.com/photo-1546548970-717853e8e7d8?ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;w=1587&amp;q=80');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+        }
+        
+        .pastry {
+            background: url('https://images.unsplash.com/photo-1558315957-d6f4b728b5f2?ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;w=1632&amp;q=80');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+        }
+        
+        .cake {
+            background: url('https://images.unsplash.com/photo-1578985545062-69928b1d9587?ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;w=1588&amp;q=80');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+        }
+        
+        .floating {
+            animation: floating 3s ease-in-out infinite;
+        }
+        
+        @keyframes floating {
+            0% { transform: translateY(0px); }
+            50% { transform: translateY(-15px); }
+            100% { transform: translateY(0px); }
+        }
+    </style>
+</head>
+<body class="bg-amber-50">
+    <!-- Navigation -->
+    <nav class="bg-white shadow-md fixed w-full z-50">
+        <div class="container mx-auto px-6 py-3">
+            <div class="flex items-center justify-between">
+                <div class="flex items-center">
+                    <a href="#" class="text-2xl font-bold text-amber-800 title-font">Ages Food Bakery</a>
+                </div>
+                
+                <div class="hidden md:flex items-center space-x-8">
+                    <a href="#home" class="text-amber-800 hover:text-amber-600">Home</a>
+                    <a href="#about" class="text-amber-800 hover:text-amber-600">About</a>
+                    <a href="#menu" class="text-amber-800 hover:text-amber-600">Menu</a>
+                    <a href="#gallery" class="text-amber-800 hover:text-amber-600">Gallery</a>
+                    <a href="#contact" class="text-amber-800 hover:text-amber-600">Contact</a>
+                </div>
+                
+                <div class="md:hidden">
+                    <button class="text-amber-800 focus:outline-none">
+                        <i class="fas fa-bars text-2xl"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </nav>
+    
+    <!-- Mobile Menu -->
+    <div class="mobile-menu hidden md:hidden bg-white fixed w-full z-40 mt-16 shadow-lg">
+        <div class="container mx-auto px-6 py-4">
+            <div class="flex flex-col space-y-4">
+                <a href="#home" class="text-amber-800 hover:text-amber-600">Home</a>
+                <a href="#about" class="text-amber-800 hover:text-amber-600">About</a>
+                <a href="#menu" class="text-amber-800 hover:text-amber-600">Menu</a>
+                <a href="#gallery" class="text-amber-800 hover:text-amber-600">Gallery</a>
+                <a href="#contact" class="text-amber-800 hover:text-amber-600">Contact</a>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Hero Section -->
+    <section id="home" class="hero min-h-screen flex items-center justify-center text-white pt-16">
+        <div class="container mx-auto px-6 text-center">
+            <h1 class="text-4xl md:text-6xl font-bold mb-6 title-font">Welcome to Ages Food Bakery</h1>
+            <p class="text-xl md:text-2xl mb-8">Artisan breads & pastries made with love and tradition</p>
+            <div class="flex flex-col md:flex-row justify-center gap-4">
+                <a href="#menu" class="bg-amber-600 hover:bg-amber-700 text-white px-8 py-3 rounded-full font-bold transition duration-300">Our Menu</a>
+                <a href="#contact" class="bg-transparent hover:bg-white hover:text-amber-800 text-white border-2 border-white px-8 py-3 rounded-full font-bold transition duration-300">Contact Us</a>
+            </div>
+        </div>
+    </section>
+    
+    <!-- About Section -->
+    <section id="about" class="py-20 bg-white">
+        <div class="container mx-auto px-6">
+            <div class="flex flex-col md:flex-row items-center">
+                <div class="md:w-1/2 mb-10 md:mb-0">
+                    <img src="../../saran-pariyar.github.io/bakeshop-3/img/hands.jpg" alt="Baker preparing dough" class="rounded-lg shadow-xl w-full h-auto">
+                </div>
+                <div class="md:w-1/2 md:pl-12">
+                    <h2 class="text-3xl md:text-4xl font-bold mb-6 text-amber-800 title-font">Our Story</h2>
+                    <p class="text-gray-700 mb-4">Founded in 2023, Ages Food Bakery is a family-owned artisan bakery dedicated to crafting exceptional breads and pastries using traditional techniques and the finest ingredients.</p>
+                    <p class="text-gray-700 mb-6">Our master bakers bring decades of experience from around the world to create products that honor the timeless traditions of baking while innovating with modern flavors.</p>
+                    <div class="flex flex-wrap gap-4">
+                        <div class="flex items-center">
+                            <div class="bg-amber-100 p-3 rounded-full mr-3">
+                                <i class="fas fa-bread-slice text-amber-600"></i>
+                            </div>
+                            <span class="text-gray-700">Handcrafted Daily</span>
+                        </div>
+                        <div class="flex items-center">
+                            <div class="bg-amber-100 p-3 rounded-full mr-3">
+                                <i class="fas fa-leaf text-amber-600"></i>
+                            </div>
+                            <span class="text-gray-700">Organic Ingredients</span>
+                        </div>
+                        <div class="flex items-center">
+                            <div class="bg-amber-100 p-3 rounded-full mr-3">
+                                <i class="fas fa-heart text-amber-600"></i>
+                            </div>
+                            <span class="text-gray-700">Made with Love</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Specialties Section -->
+    <section class="py-16 bg-amber-100">
+        <div class="container mx-auto px-6">
+            <h2 class="text-3xl md:text-4xl font-bold mb-12 text-center text-amber-800 title-font">Our Specialties</h2>
+            
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <!-- Bread -->
+                <div class="bg-white p-8 rounded-lg shadow-lg text-center hover:shadow-xl transition duration-300">
+                    <div class="bg-amber-100 w-20 h-20 mx-auto rounded-full flex items-center justify-center mb-4">
+                        <i class="fas fa-bread-slice text-3xl text-amber-600"></i>
+                    </div>
+                    <h3 class="text-xl font-bold mb-3 text-amber-800">Artisan Breads</h3>
+                    <p class="text-gray-700">Slow-fermented sourdough, crusty baguettes, and rustic whole grain loaves baked fresh daily in our stone hearth oven.</p>
+                </div>
+                
+                <!-- Pastries -->
+                <div class="bg-white p-8 rounded-lg shadow-lg text-center hover:shadow-xl transition duration-300">
+                    <div class="bg-amber-100 w-20 h-20 mx-auto rounded-full flex items-center justify-center mb-4">
+                        <i class="fas fa-cookie-bite text-3xl text-amber-600"></i>
+                    </div>
+                    <h3 class="text-xl font-bold mb-3 text-amber-800">French Pastries</h3>
+                    <p class="text-gray-700">Buttery croissants, delicate éclairs, and flaky palmiers made with premium European butter and traditional techniques.</p>
+                </div>
+                
+                <!-- Cakes -->
+                <div class="bg-white p-8 rounded-lg shadow-lg text-center hover:shadow-xl transition duration-300">
+                    <div class="bg-amber-100 w-20 h-20 mx-auto rounded-full flex items-center justify-center mb-4">
+                        <i class="fas fa-birthday-cake text-3xl text-amber-600"></i>
+                    </div>
+                    <h3 class="text-xl font-bold mb-3 text-amber-800">Celebration Cakes</h3>
+                    <p class="text-gray-700">Custom-designed cakes for all occasions, from elegant wedding cakes to fun birthday creations.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Menu Section -->
+    <section id="menu" class="py-20 bg-white">
+        <div class="container mx-auto px-6">
+            <h2 class="text-3xl md:text-4xl font-bold mb-12 text-center text-amber-800 title-font">Our Menu</h2>
+            
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <!-- Bread Menu -->
+                <div class="bg-amber-50 p-6 rounded-lg shadow-md">
+                    <h3 class="text-2xl font-bold mb-6 text-amber-800 border-b-2 border-amber-200 pb-2 title-font">Breads</h3>
+                    <div class="space-y-6">
+                        <div class="flex justify-between items-start">
+                            <div>
+                                <h4 class="font-bold text-gray-800">Sourdough Boule</h4>
+                                <p class="text-sm text-gray-600">Traditional 72-hour fermented</p>
+                            </div>
+                            <span class="font-bold text-amber-700">$6.50</span>
+                        </div>
+                        <div class="flex justify-between items-start">
+                            <div>
+                                <h4 class="font-bold text-gray-800">Baguette</h4>
+                                <p class="text-sm text-gray-600">Crusty French-style</p>
+                            </div>
+                            <span class="font-bold text-amber-700">$4.50</span>
+                        </div>
+                        <div class="flex justify-between items-start">
+                            <div>
+                                <h4 class="font-bold text-gray-800">Multigrain</h4>
+                                <p class="text-sm text-gray-600">Seven ancient grains</p>
+                            </div>
+                            <span class="font-bold text-amber-700">$7.00</span>
+                        </div>
+                        <div class="flex justify-between items-start">
+                            <div>
+                                <h4 class="font-bold text-gray-800">Challah</h4>
+                                <p class="text-sm text-gray-600">Braided egg bread</p>
+                            </div>
+                            <span class="font-bold text-amber-700">$6.00</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Pastry Menu -->
+                <div class="bg-amber-50 p-6 rounded-lg shadow-md">
+                    <h3 class="text-2xl font-bold mb-6 text-amber-800 border-b-2 border-amber-200 pb-2 title-font">Pastries</h3>
+                    <div class="space-y-6">
+                        <div class="flex justify-between items-start">
+                            <div>
+                                <h4 class="font-bold text-gray-800">Croissant</h4>
+                                <p class="text-sm text-gray-600">Classic butter</p>
+                            </div>
+                            <span class="font-bold text-amber-700">$3.50</span>
+                        </div>
+                        <div class="flex justify-between items-start">
+                            <div>
+                                <h4 class="font-bold text-gray-800">Pain au Chocolat</h4>
+                                <p class="text-sm text-gray-600">Chocolate-filled</p>
+                            </div>
+                            <span class="font-bold text-amber-700">$4.00</span>
+                        </div>
+                        <div class="flex justify-between items-start">
+                            <div>
+                                <h4 class="font-bold text-gray-800">Almond Croissant</h4>
+                                <p class="text-sm text-gray-600">Filled with frangipane</p>
+                            </div>
+                            <span class="font-bold text-amber-700">$4.50</span>
+                        </div>
+                        <div class="flex justify-between items-start">
+                            <div>
+                                <h4 class="font-bold text-gray-800">Cinnamon Roll</h4>
+                                <p class="text-sm text-gray-600">With cream cheese icing</p>
+                            </div>
+                            <span class="font-bold text-amber-700">$4.00</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Dessert Menu -->
+                <div class="bg-amber-50 p-6 rounded-lg shadow-md">
+                    <h3 class="text-2xl font-bold mb-6 text-amber-800 border-b-2 border-amber-200 pb-2 title-font">Desserts</h3>
+                    <div class="space-y-6">
+                        <div class="flex justify-between items-start">
+                            <div>
+                                <h4 class="font-bold text-gray-800">Éclair</h4>
+                                <p class="text-sm text-gray-600">Chocolate or vanilla</p>
+                            </div>
+                            <span class="font-bold text-amber-700">$4.50</span>
+                        </div>
+                        <div class="flex justify-between items-start">
+                            <div>
+                                <h4 class="font-bold text-gray-800">Macaron</h4>
+                                <p class="text-sm text-gray-600">Assorted flavors</p>
+                            </div>
+                            <span class="font-bold text-amber-700">$2.50 each</span>
+                        </div>
+                        <div class="flex justify-between items-start">
+                            <div>
+                                <h4 class="font-bold text-gray-800">Tarte au Citron</h4>
+                                <p class="text-sm text-gray-600">Lemon tart</p>
+                            </div>
+                            <span class="font-bold text-amber-700">$6.00</span>
+                        </div>
+                        <div class="flex justify-between items-start">
+                            <div>
+                                <h4 class="font-bold text-gray-800">Chocolate Cake</h4>
+                                <p class="text-sm text-gray-600">Flourless</p>
+                            </div>
+                            <span class="font-bold text-amber-700">$7.00</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="text-center mt-12">
+                <a href="#" class="bg-amber-600 hover:bg-amber-700 text-white px-8 py-3 rounded-full font-bold transition duration-300 inline-block">View Full Menu</a>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Gallery Section -->
+    <section id="gallery" class="py-16 bg-amber-100">
+        <div class="container mx-auto px-6">
+            <h2 class="text-3xl md:text-4xl font-bold mb-12 text-center text-amber-800 title-font">Our Gallery</h2>
+            
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+                <div class="relative overflow-hidden rounded-lg h-48 md:h-64">
+                    <img src="https://images.unsplash.com/photo-1509440159596-0249088772ff?ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;w=1472&amp;q=80" alt="Bread assortment" class="w-full h-full object-cover">
+                    <div class="absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center opacity-0 hover:opacity-100 transition duration-300">
+                        <span class="text-white font-bold">Artisan Breads</span>
+                    </div>
+                </div>
+                <div class="relative overflow-hidden rounded-lg h-48 md:h-64">
+                    <img src="../../saran-pariyar.github.io/bakeshop-3/img/cupcakes_225x225.jpg" alt="Pastries" class="w-full h-full object-cover">
+                    <div class="absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center opacity-0 hover:opacity-100 transition duration-300">
+                        <span class="text-white font-bold">French Pastries</span>
+                    </div>
+                </div>
+                <div class="relative overflow-hidden rounded-lg h-48 md:h-64">
+                    <img src="https://images.unsplash.com/photo-1578985545062-69928b1d9587?ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;w=1588&amp;q=80" alt="Cake" class="w-full h-full object-cover">
+                    <div class="absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center opacity-0 hover:opacity-100 transition duration-300">
+                        <span class="text-white font-bold">Celebration Cakes</span>
+                    </div>
+                </div>
+                <div class="relative overflow-hidden rounded-lg h-48 md:h-64">
+                    <img src="https://images.unsplash.com/photo-1608198093002-ad4e005484ec?ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;w=1632&amp;q=80" alt="Baker at work" class="w-full h-full object-cover">
+                    <div class="absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center opacity-0 hover:opacity-100 transition duration-300">
+                        <span class="text-white font-bold">Our Bakers</span>
+                    </div>
+                </div>
+                <div class="relative overflow-hidden rounded-lg h-48 md:h-64">
+                    <img src="../../saran-pariyar.github.io/bakeshop-3/img/hands.jpg" alt="Bread closeup" class="w-full h-full object-cover">
+                    <div class="absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center opacity-0 hover:opacity-100 transition duration-300">
+                        <span class="text-white font-bold">Freshly Baked</span>
+                    </div>
+                </div>
+                <div class="relative overflow-hidden rounded-lg h-48 md:h-64">
+                    <img src="https://images.unsplash.com/photo-1608198093002-ad4e005484ec?ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;w=1632&amp;q=80" alt="Bakery interior" class="w-full h-full object-cover">
+                    <div class="absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center opacity-0 hover:opacity-100 transition duration-300">
+                        <span class="text-white font-bold">Our Bakery</span>
+                    </div>
+                </div>
+                <div class="relative overflow-hidden rounded-lg h-48 md:h-64">
+                    <img src="https://images.unsplash.com/photo-1608198093002-ad4e005484ec?ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;w=1632&amp;q=80" alt="Ingredients" class="w-full h-full object-cover">
+                    <div class="absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center opacity-0 hover:opacity-100 transition duration-300">
+                        <span class="text-white font-bold">Quality Ingredients</span>
+                    </div>
+                </div>
+                <div class="relative overflow-hidden rounded-lg h-48 md:h-64">
+                    <img src="https://images.unsplash.com/photo-1608198093002-ad4e005484ec?ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;w=1632&amp;q=80" alt="Coffee and pastry" class="w-full h-full object-cover">
+                    <div class="absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center opacity-0 hover:opacity-100 transition duration-300">
+                        <span class="text-white font-bold">Perfect Pairings</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Testimonials -->
+    <!--section class="py-20 bg-white">
+        <div class="container mx-auto px-6">
+            <h2 class="text-3xl md:text-4xl font-bold mb-12 text-center text-amber-800 title-font">What Our Customers Say</h2>
+            
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <div class="bg-amber-50 p-8 rounded-lg shadow-md">
+                    <div class="flex items-center mb-4">
+                        <div class="text-amber-500 mr-2">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                        </div>
+                    </div>
+                    <p class="text-gray-700 mb-6">"The sourdough bread from Ages Food Bakery is absolutely incredible! The perfect crust and airy interior make it worth every penny."</p>
+                    <div class="flex items-center">
+                        <img src="https://randomuser.me/api/portraits/women/32.jpg" alt="Customer" class="w-10 h-10 rounded-full mr-3">
+                        <div>
+                            <h4 class="font-bold text-gray-800">Sarah Johnson</h4>
+                            <p class="text-sm text-gray-600">Regular Customer</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="bg-amber-50 p-8 rounded-lg shadow-md">
+                    <div class="flex items-center mb-4">
+                        <div class="text-amber-500 mr-2">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                        </div>
+                    </div>
+                    <p class="text-gray-700 mb-6">"I ordered a custom birthday cake and it was both beautiful and delicious. The attention to detail was remarkable!"</p>
+                    <div class="flex items-center">
+                        <img src="https://randomuser.me/api/portraits/men/54.jpg" alt="Customer" class="w-10 h-10 rounded-full mr-3">
+                        <div>
+                            <h4 class="font-bold text-gray-800">Michael Chen</h4>
+                            <p class="text-sm text-gray-600">First-time Customer</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="bg-amber-50 p-8 rounded-lg shadow-md">
+                    <div class="flex items-center mb-4">
+                        <div class="text-amber-500 mr-2">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
+                    </div>
+                    <p class="text-gray-700 mb-6">"The almond croissants are to die for! I stop by every Saturday morning for my weekly treat. Worth waking up early for!"</p>
+                    <div class="flex items-center">
+                        <img src="https://randomuser.me/api/portraits/women/68.jpg" alt="Customer" class="w-10 h-10 rounded-full mr-3">
+                        <div>
+                            <h4 class="font-bold text-gray-800">Emily Rodriguez</h4>
+                            <p class="text-sm text-gray-600">Weekly Visitor</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section-->
+    
+    <!-- Opening Soon Banner -->
+    <section class="py-16 bg-amber-600 text-white">
+        <div class="container mx-auto px-6 text-center">
+            <h2 class="text-3xl md:text-4xl font-bold mb-6 title-font">Opening Soon!</h2>
+            <p class="text-xl mb-8">We're putting the finishing touches on our bakery and can't wait to serve you!</p>
+            <div class="flex flex-wrap justify-center gap-4 mb-8">
+                <div class="bg-amber-700 px-6 py-3 rounded-lg">
+                    <div class="text-3xl font-bold" id="days">00</div>
+                    <div class="text-sm">Days</div>
+                </div>
+                <div class="bg-amber-700 px-6 py-3 rounded-lg">
+                    <div class="text-3xl font-bold" id="hours">00</div>
+                    <div class="text-sm">Hours</div>
+                </div>
+                <div class="bg-amber-700 px-6 py-3 rounded-lg">
+                    <div class="text-3xl font-bold" id="minutes">00</div>
+                    <div class="text-sm">Minutes</div>
+                </div>
+                <div class="bg-amber-700 px-6 py-3 rounded-lg">
+                    <div class="text-3xl font-bold" id="seconds">00</div>
+                    <div class="text-sm">Seconds</div>
+                </div>
+            </div>
+            <a href="#contact" class="bg-white hover:bg-amber-100 text-amber-800 px-8 py-3 rounded-full font-bold transition duration-300 inline-block">Get Notified</a>
+        </div>
+    </section>
+    
+    <!-- Contact Section -->
+    <section id="contact" class="py-20 bg-white">
+        <div class="container mx-auto px-6">
+            <h2 class="text-3xl md:text-4xl font-bold mb-12 text-center text-amber-800 title-font">Contact Us</h2>
+            
+            <div class="flex flex-col md:flex-row">
+                <div class="md:w-1/2 mb-10 md:mb-0 md:pr-8">
+                    <h3 class="text-2xl font-bold mb-6 text-amber-800">Visit Our Bakery</h3>
+                    <div class="space-y-4">
+                        <div class="flex items-start">
+                            <div class="bg-amber-100 p-3 rounded-full mr-4">
+                                <i class="fas fa-map-marker-alt text-amber-600"></i>
+                            </div>
+                            <div>
+                                <h4 class="font-bold text-gray-800">Location</h4>
+                                <p class="text-gray-700">123 Baker Street, Flour District<br>New York, NY 10001</p>
+                            </div>
+                        </div>
+                        <div class="flex items-start">
+                            <div class="bg-amber-100 p-3 rounded-full mr-4">
+                                <i class="fas fa-clock text-amber-600"></i>
+                            </div>
+                            <div>
+                                <h4 class="font-bold text-gray-800">Opening Hours</h4>
+                                <p class="text-gray-700">Monday - Friday: 7am - 7pm<br>Saturday - Sunday: 8am - 5pm</p>
+                            </div>
+                        </div>
+                        <div class="flex items-start">
+                            <div class="bg-amber-100 p-3 rounded-full mr-4">
+                                <i class="fas fa-phone-alt text-amber-600"></i>
+                            </div>
+                            <div>
+                                <h4 class="font-bold text-gray-800">Phone</h4>
+                                <p class="text-gray-700">(212) 555-7890</p>
+                            </div>
+                        </div>
+                        <div class="flex items-start">
+                            <div class="bg-amber-100 p-3 rounded-full mr-4">
+                                <i class="fas fa-envelope text-amber-600"></i>
+                            </div>
+                            <div>
+                                <h4 class="font-bold text-gray-800">Email</h4>
+                                <p class="text-gray-700">hello@agesfoodbakery.com</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <h3 class="text-2xl font-bold mt-10 mb-6 text-amber-800">Follow Us</h3>
+                    <div class="flex space-x-4">
+                        <a href="#" class="bg-amber-100 hover:bg-amber-200 w-10 h-10 rounded-full flex items-center justify-center text-amber-700">
+                            <i class="fab fa-facebook-f"></i>
+                        </a>
+                        <a href="#" class="bg-amber-100 hover:bg-amber-200 w-10 h-10 rounded-full flex items-center justify-center text-amber-700">
+                            <i class="fab fa-instagram"></i>
+                        </a>
+                        <a href="#" class="bg-amber-100 hover:bg-amber-200 w-10 h-10 rounded-full flex items-center justify-center text-amber-700">
+                            <i class="fab fa-twitter"></i>
+                        </a>
+                    </div>
+                </div>
+                
+                <div class="md:w-1/2">
+                    <h3 class="text-2xl font-bold mb-6 text-amber-800">Send Us a Message</h3>
+                    <form class="space-y-4">
+                        <div>
+                            <label for="name" class="block text-gray-700 font-medium mb-2">Your Name</label>
+                            <input type="text" id="name" class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-amber-500">
+                        </div>
+                        <div>
+                            <label for="email" class="block text-gray-700 font-medium mb-2">Email Address</label>
+                            <input type="email" id="email" class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-amber-500">
+                        </div>
+                        <div>
+                            <label for="subject" class="block text-gray-700 font-medium mb-2">Subject</label>
+                            <input type="text" id="subject" class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-amber-500">
+                        </div>
+                        <div>
+                            <label for="message" class="block text-gray-700 font-medium mb-2">Message</label>
+                            <textarea id="message" rows="4" class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-amber-500"></textarea>
+                        </div>
+                        <button type="submit" class="bg-amber-600 hover:bg-amber-700 text-white px-6 py-3 rounded-lg font-bold transition duration-300 w-full">Send Message</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Footer -->
+    <footer class="bg-amber-800 text-white py-12">
+        <div class="container mx-auto px-6">
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
+                <div>
+                    <h3 class="text-xl font-bold mb-4 title-font">Ages Food Bakery</h3>
+                    <p class="text-amber-200">Artisan breads and pastries crafted with passion and tradition.</p>
+                </div>
+                <div>
+                    <h4 class="font-bold mb-4">Quick Links</h4>
+                    <ul class="space-y-2">
+                        <li><a href="#home" class="text-amber-200 hover:text-white">Home</a></li>
+                        <li><a href="#about" class="text-amber-200 hover:text-white">About Us</a></li>
+                        <li><a href="#menu" class="text-amber-200 hover:text-white">Menu</a></li>
+                        <li><a href="#gallery" class="text-amber-200 hover:text-white">Gallery</a></li>
+                        <li><a href="#contact" class="text-amber-200 hover:text-white">Contact</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="font-bold mb-4">Our Products</h4>
+                    <ul class="space-y-2">
+                        <li><a href="#" class="text-amber-200 hover:text-white">Breads</a></li>
+                        <li><a href="#" class="text-amber-200 hover:text-white">Pastries</a></li>
+                        <li><a href="#" class="text-amber-200 hover:text-white">Desserts</a></li>
+                        <li><a href="#" class="text-amber-200 hover:text-white">Cakes</a></li>
+                        <li><a href="#" class="text-amber-200 hover:text-white">Seasonal Specials</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="font-bold mb-4">Newsletter</h4>
+                    <p class="text-amber-200 mb-4">Subscribe to get updates on our opening and special offers.</p>
+                    <form class="flex">
+                        <input type="email" placeholder="Your email" class="px-4 py-2 w-full rounded-l-lg focus:outline-none text-gray-800">
+                        <button type="submit" class="bg-amber-600 hover:bg-amber-700 px-4 py-2 rounded-r-lg">
+                            <i class="fas fa-paper-plane"></i>
+                        </button>
+                    </form>
+                </div>
+            </div>
+            <div class="border-t border-amber-700 mt-8 pt-8 text-center text-amber-200">
+                <p>&copy; 2025 Ages Food Bakery. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+    
+    <!-- Back to Top Button -->
+    <a href="#home" class="fixed bottom-6 right-6 bg-amber-600 hover:bg-amber-700 text-white w-12 h-12 rounded-full flex items-center justify-center shadow-lg transition duration-300">
+        <i class="fas fa-arrow-up"></i>
+    </a>
+    
+    <script>
+        // Mobile menu toggle
+        document.querySelector('nav button').addEventListener('click', function() {
+            document.querySelector('.mobile-menu').classList.toggle('hidden');
+        });
+        
+        // Countdown timer
+        function updateCountdown() {
+            // Set the opening date (year, month (0-11), day, hour, minute, second)
+            const openingDate = new Date(2023, 10, 15, 8, 0, 0); // November 15, 2023
+            const now = new Date();
+            const diff = openingDate - now;
+            
+            const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+            const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+            const seconds = Math.floor((diff % (1000 * 60)) / 1000);
+            
+            document.getElementById('days').textContent = days.toString().padStart(2, '0');
+            document.getElementById('hours').textContent = hours.toString().padStart(2, '0');
+            document.getElementById('minutes').textContent = minutes.toString().padStart(2, '0');
+            document.getElementById('seconds').textContent = seconds.toString().padStart(2, '0');
+        }
+        
+        // Update countdown every second
+        setInterval(updateCountdown, 1000);
+        updateCountdown(); // Initial call
+        
+        // Smooth scrolling for anchor links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+                
+                // Close mobile menu if open
+                document.querySelector('.mobile-menu').classList.add('hidden');
+            });
+        });
+        
+        // Add shadow to navbar on scroll
+        window.addEventListener('scroll', function() {
+            if (window.scrollY > 50) {
+                document.querySelector('nav').classList.add('shadow-lg');
+            } else {
+                document.querySelector('nav').classList.remove('shadow-lg');
+            }
+        });
+    </script>
+</body>
+
+<!-- Mirrored from olami1998.github.io/AgesFoodBakery/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Sep 2025 08:31:58 GMT -->
+</html>

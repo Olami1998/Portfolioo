@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+olami.com.ng	TRUE	/	FALSE	1999999999	PHPSESSID	67dcc3eeaa9ba9d48cec2a7da1763c5d
+olami.com.ng	TRUE	/	FALSE	1999999999	_lscache_vary	1c14bcf8688f70dcc611319aa21811f1
+

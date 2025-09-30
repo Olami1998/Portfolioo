@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.henpresscare.com	TRUE	/	FALSE	1999999999	PHPSESSID	da40077bace77ca380aeda912cbb1342
+www.henpresscare.com	TRUE	/	FALSE	1999999999	_lscache_vary	174715a07eade12055cfb7349a0fbf23
+

@@ -1,0 +1,51 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 10 Jun 2025 21:33:48 at https://olami.com.ng/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://olami.com.ng/ -O1 "C:\My Web Sites\Olami" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:35:16	Error: 	"Forbidden" (403) at link https://olami.com.ng/xmlrpc.php?rsd (from https://olami.com.ng/)
+21:37:52	Warning: 	Moved Permanently for https://olami.com.ng/?p=40
+21:37:52	Warning: 	File has moved from https://olami.com.ng/?p=40 to https://olami.com.ng/about-me/
+21:37:52	Warning: 	Moved Permanently for https://olami.com.ng/?p=43
+21:37:52	Warning: 	File has moved from https://olami.com.ng/?p=43 to https://olami.com.ng/portfolios/
+21:37:53	Warning: 	Moved Permanently for https://olami.com.ng/?p=813
+21:37:53	Warning: 	File has moved from https://olami.com.ng/?p=813 to https://olami.com.ng/portfolios/graphic/
+21:37:54	Warning: 	Moved Permanently for https://olami.com.ng/?p=946
+21:37:54	Warning: 	File has moved from https://olami.com.ng/?p=946 to https://olami.com.ng/portfolios/data/
+21:37:55	Warning: 	Moved Permanently for https://olami.com.ng/?p=46
+21:37:55	Warning: 	File has moved from https://olami.com.ng/?p=46 to https://olami.com.ng/services/
+21:37:55	Warning: 	Moved Permanently for https://olami.com.ng/graphic/
+21:37:55	Warning: 	File has moved from https://olami.com.ng/graphic/ to https://olami.com.ng/portfolios/graphic/
+21:37:55	Warning: 	Moved Permanently for https://olami.com.ng/?p=861
+21:37:55	Warning: 	File has moved from https://olami.com.ng/?p=861 to https://olami.com.ng/web-services/
+21:37:56	Warning: 	Moved Permanently for https://olami.com.ng/?p=49
+21:37:56	Warning: 	File has moved from https://olami.com.ng/?p=49 to https://olami.com.ng/contact-me/
+21:37:57	Warning: 	Moved Permanently for https://olami.com.ng/?p=1155
+21:37:57	Warning: 	File has moved from https://olami.com.ng/?p=1155 to https://olami.com.ng/portfolio/portfolio6/
+21:37:57	Error: 	"Forbidden" (403) at link https://olami.com.ng/xmlrpc.php (from https://olami.com.ng/portfolio/portfolio6/)
+21:38:38	Warning: 	Moved Permanently for https://olami.com.ng/?p=104
+21:38:38	Warning: 	File has moved from https://olami.com.ng/?p=104 to https://olami.com.ng/portfolio/portfolio4/
+21:38:38	Warning: 	Moved Permanently for https://olami.com.ng/?p=103
+21:38:38	Warning: 	File has moved from https://olami.com.ng/?p=103 to https://olami.com.ng/portfolio/portfolio5/
+21:38:39	Warning: 	Moved Permanently for https://olami.com.ng/?p=101
+21:38:39	Warning: 	File has moved from https://olami.com.ng/?p=101 to https://olami.com.ng/portfolio/portfolio3/
+21:38:39	Warning: 	Moved Permanently for https://olami.com.ng/?p=100
+21:38:39	Warning: 	File has moved from https://olami.com.ng/?p=100 to https://olami.com.ng/portfolio/portfolio2/
+21:38:40	Warning: 	Moved Permanently for https://olami.com.ng/?p=99
+21:38:40	Warning: 	File has moved from https://olami.com.ng/?p=99 to https://olami.com.ng/portfolio/portfolio1/
+21:38:52	Warning: 	Moved Permanently for https://olami.com.ng/?p=1140
+21:38:52	Warning: 	File has moved from https://olami.com.ng/?p=1140 to https://olami.com.ng/the-hidden-cost-of-not-having-a-website-in-nigeria-dont-miss-out-on-opportunities/
+21:38:53	Error: 	Exit requested by shell or user
+21:39:03	Error: 	Exit requested by shell or user
+21:39:03	Error: 	"" (-1) at link https://olami.com.ng/?p=1147 (from https://olami.com.ng/customer-acquisition-retention-strategies/)
+21:39:03	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 15 seconds : 483 links scanned, 395 files written (52716658 bytes overall) [14024066 bytes received at 44520 bytes/sec], 47026825 bytes transferred using HTTP compression in 316 files, ratio 17%, 7.5 requests per connection
+(6 errors, 30 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]

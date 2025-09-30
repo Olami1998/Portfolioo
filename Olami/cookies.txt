@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+olami.com.ng	TRUE	/blogg/	FALSE	1999999999	_lscache_vary	1c14bcf8688f70dcc611319aa21811f1
+olami.com.ng	TRUE	/shop/	FALSE	1999999999	wp_woocommerce_session_cf6007a1c955f386e07042d7b2839c50	t_a01ab21b7c4b35b1f527a7027feb9e%7C%7C1749760727%7C%7C1749757127%7C%7Ca317ba64718b3d35e85e01cce36f81e0
+olami.com.ng	TRUE	/shop/	FALSE	1999999999	wcboost_compare_hash	deleted
+olami.com.ng	TRUE	/shop/	FALSE	1999999999	wcboost_wishlist_hash	38d3e9532f9540890aee5e4b96ec7ab6%3A%3Aee11c9c47e9fa343f13bede21b6e7553
+olami.com.ng	TRUE	/	FALSE	1999999999	PHPSESSID	32e044f8a1c6da42a5408761a38bd57a
+olami.com.ng	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+.vimeo.com	TRUE	/	FALSE	1999999999	__cf_bm	DdbtjhfKb.act1pWGWXYvLix7L9IEfTis9Qa86KIBcQ-1749587890-1.0.1.1-qEF0ImyJBjBoSffFaxTmAMYn3bLJUqf1IkmzBvmw2vAubLInlpaOpJTL.OZX.Uze
+.vimeo.com	TRUE	/	FALSE	1999999999	_cfuvid	u34zhK3weN4Wj4_gUOHeMIWwq498naDCpWj8NEBpQU0-1749587890206-0.0.1.1-604800000
+player.vimeo.com	TRUE	/	FALSE	1999999999	SameSite	None
+olami.com.ng	TRUE	/	FALSE	1999999999	_lscache_vary	fe150bc28f44ec8deb093e2e16a18bc4
+

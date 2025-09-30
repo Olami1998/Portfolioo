@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 11 Jun 2025 08:16:47 at https://www.henpresscare.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.henpresscare.com/ -O1 "C:\My Web Sites\hen1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:17:11	Error: 	"Forbidden" (403) at link https://www.henpresscare.com/xmlrpc.php?rsd (from https://www.henpresscare.com/)
+08:17:27	Warning: 	Moved Permanently for https://www.henpresscare.com/?p=11
+08:17:27	Warning: 	File has moved from https://www.henpresscare.com/?p=11 to https://www.henpresscare.com/about-us/
+08:17:28	Warning: 	Moved Permanently for https://www.henpresscare.com/?p=13
+08:17:28	Warning: 	File has moved from https://www.henpresscare.com/?p=13 to https://www.henpresscare.com/services/
+08:17:29	Warning: 	Moved Permanently for https://www.henpresscare.com/?p=15
+08:17:29	Warning: 	File has moved from https://www.henpresscare.com/?p=15 to https://www.henpresscare.com/contact-us/
+
+HTTrack Website Copier/3.49-2 mirror complete in 42 seconds : 72 links scanned, 67 files written (12549832 bytes overall) [4309189 bytes received at 102599 bytes/sec], 10717767 bytes transferred using HTTP compression in 44 files, ratio 22%, 9.2 requests per connection
+(1 errors, 6 warnings, 0 messages)

@@ -1,0 +1,40 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 09 Jul 2025 08:03:44 at https://henpresscare.com/new/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://henpresscare.com/new/ -O1 "C:\My Web Sites\HenPressCare2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:03:46	Warning: 	Moved Permanently for https://henpresscare.com/robots.txt
+08:03:46	Warning: 	Redirected link is identical because of 'URL Hack' option: https://henpresscare.com/robots.txt and https://www.henpresscare.com/robots.txt
+08:03:46	Warning: 	Warning moved treated for https://henpresscare.com/robots.txt (real one is https://www.henpresscare.com/robots.txt)
+08:05:04	Error: 	"Forbidden" (403) at link https://henpresscare.com/new/xmlrpc.php?rsd (from https://henpresscare.com/new/)
+08:05:34	Error: 	"Not Found" (404) at link https://henpresscare.com/new/wp-content/plugins/royal-elementor-addons/assets/css/lib/lightgallery/img/vimeo-play.png (from https://henpresscare.com/new/wp-content/plugins/royal-elementor-addons/assets/css/lib/lightgallery/lightgallery.min.css?ver=1.7.1024)
+08:05:34	Error: 	"Not Found" (404) at link https://henpresscare.com/new/wp-content/plugins/royal-elementor-addons/assets/css/lib/lightgallery/img/video-play.png (from https://henpresscare.com/new/wp-content/plugins/royal-elementor-addons/assets/css/lib/lightgallery/lightgallery.min.css?ver=1.7.1024)
+08:05:34	Error: 	"Not Found" (404) at link https://henpresscare.com/new/wp-content/plugins/royal-elementor-addons/assets/css/lib/lightgallery/img/youtube-play.png (from https://henpresscare.com/new/wp-content/plugins/royal-elementor-addons/assets/css/lib/lightgallery/lightgallery.min.css?ver=1.7.1024)
+08:05:37	Warning: 	Moved Permanently for https://henpresscare.com/new/?p=872
+08:05:37	Warning: 	File has moved from https://henpresscare.com/new/?p=872 to https://henpresscare.com/new/about/
+08:05:37	Warning: 	Moved Permanently for https://henpresscare.com/new/?p=8
+08:05:37	Warning: 	File has moved from https://henpresscare.com/new/?p=8 to https://henpresscare.com/new/services/
+08:05:37	Warning: 	Moved Permanently for https://henpresscare.com/new/?p=9
+08:05:37	Warning: 	File has moved from https://henpresscare.com/new/?p=9 to https://henpresscare.com/new/appointment/
+08:05:46	Warning: 	Moved Permanently for https://henpresscare.com/new/?p=11
+08:05:46	Warning: 	File has moved from https://henpresscare.com/new/?p=11 to https://henpresscare.com/new/contact/
+08:05:46	Warning: 	Moved Permanently for https://henpresscare.com/new/?p=160
+08:05:46	Warning: 	File has moved from https://henpresscare.com/new/?p=160 to https://henpresscare.com/new/ensuring-peace-of-mind-the-safety-measures-in-place-at-our-care-home/
+08:05:46	Warning: 	Moved Permanently for https://henpresscare.com/new/?p=159
+08:05:46	Warning: 	File has moved from https://henpresscare.com/new/?p=159 to https://henpresscare.com/new/celebrating-lifes-journey-enriching-activities-for-seniors-in-our-care-home/
+08:05:46	Warning: 	Moved Permanently for https://henpresscare.com/new/?p=158
+08:05:46	Warning: 	File has moved from https://henpresscare.com/new/?p=158 to https://henpresscare.com/new/a-home-away-from-home-our-care-homes-warm-and-welcoming-atmosphere/
+08:05:47	Error: 	"Not Found" (404) at link https://henpresscare.com/new/2/ (from https://henpresscare.com/new/page/2/)
+08:05:47	Warning: 	Moved Permanently for https://henpresscare.com/new/?p=157
+08:05:47	Warning: 	File has moved from https://henpresscare.com/new/?p=157 to https://henpresscare.com/new/providing-compassionate-care-understanding-the-needs-of-elderly-residents/
+08:05:47	Warning: 	Moved Permanently for https://henpresscare.com/new/?p=156
+08:05:47	Warning: 	File has moved from https://henpresscare.com/new/?p=156 to https://henpresscare.com/new/enhancing-quality-of-life-how-our-care-home-promotes-well-being-for-seniors/
+08:05:47	Warning: 	Moved Permanently for https://henpresscare.com/new/?p=155
+08:05:47	Warning: 	File has moved from https://henpresscare.com/new/?p=155 to https://henpresscare.com/new/creating-a-safe-and-supportive-environment-our-commitment-to-elderly-care/
+08:05:48	Error: 	"Not Found" (404) at link https://henpresscare.com/new/3/ (from https://henpresscare.com/new/page/3/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 4 seconds : 323 links scanned, 306 files written (13200489 bytes overall) [6920576 bytes received at 55811 bytes/sec], 9013954 bytes transferred using HTTP compression in 164 files, ratio 24%, 17.0 requests per connection
+(6 errors, 23 warnings, 0 messages)

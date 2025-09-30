@@ -1,0 +1,37 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 09 Jul 2025 07:58:17 at https://henpresscare.com/copy +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://henpresscare.com/copy -O1 "C:\My Web Sites\HenPressCare1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+07:58:20	Warning: 	Moved Permanently for https://henpresscare.com/robots.txt
+07:58:20	Warning: 	Redirected link is identical because of 'URL Hack' option: https://henpresscare.com/robots.txt and https://www.henpresscare.com/robots.txt
+07:58:20	Warning: 	Warning moved treated for https://henpresscare.com/robots.txt (real one is https://www.henpresscare.com/robots.txt)
+07:58:43	Error: 	"Forbidden" (403) at link https://henpresscare.com/copy/xmlrpc.php?rsd (from https://henpresscare.com/copy/)
+07:59:07	Warning: 	Moved Permanently for https://henpresscare.com/contact/
+07:59:07	Warning: 	File has moved from https://henpresscare.com/contact/ to https://www.henpresscare.com/contact-us/
+07:59:07	Warning: 	Moved Permanently for https://henpresscare.com/about/
+07:59:07	Warning: 	File has moved from https://henpresscare.com/about/ to https://www.henpresscare.com/about-us/
+07:59:08	Warning: 	Moved Permanently for https://henpresscare.com/offerings/
+07:59:08	Warning: 	Redirected link is identical because of 'URL Hack' option: https://henpresscare.com/offerings/ and https://www.henpresscare.com/offerings/
+07:59:08	Warning: 	File has moved from https://henpresscare.com/offerings/ to https://www.henpresscare.com/offerings/
+07:59:08	Warning: 	Moved Permanently for https://henpresscare.com/copy/?p=276
+07:59:08	Warning: 	File has moved from https://henpresscare.com/copy/?p=276 to https://henpresscare.com/copy/about/
+07:59:11	Warning: 	Moved Permanently for https://henpresscare.com/copy/?p=277
+07:59:11	Warning: 	File has moved from https://henpresscare.com/copy/?p=277 to https://henpresscare.com/copy/offerings/
+07:59:20	Warning: 	Moved Permanently for https://henpresscare.com/copy/?p=279
+07:59:20	Warning: 	File has moved from https://henpresscare.com/copy/?p=279 to https://henpresscare.com/copy/contact/
+07:59:21	Warning: 	Moved Permanently for https://henpresscare.com/copy/?p=247
+07:59:21	Warning: 	File has moved from https://henpresscare.com/copy/?p=247 to https://henpresscare.com/copy/post-1/
+07:59:21	Error: 	"Forbidden" (403) at link https://henpresscare.com/copy/xmlrpc.php (from https://henpresscare.com/copy/post-1/)
+07:59:21	Warning: 	Moved Permanently for https://henpresscare.com/copy/?p=246
+07:59:21	Warning: 	File has moved from https://henpresscare.com/copy/?p=246 to https://henpresscare.com/copy/post-2/
+07:59:21	Warning: 	Moved Permanently for https://henpresscare.com/copy/?p=244
+07:59:21	Warning: 	File has moved from https://henpresscare.com/copy/?p=244 to https://henpresscare.com/copy/post-3/
+07:59:22	Warning: 	Moved Permanently for https://henpresscare.com/copy/?p=1
+07:59:22	Warning: 	File has moved from https://henpresscare.com/copy/?p=1 to https://henpresscare.com/copy/hello-world/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 5 seconds : 159 links scanned, 146 files written (6727547 bytes overall) [3972879 bytes received at 61121 bytes/sec], 3419580 bytes transferred using HTTP compression in 91 files, ratio 17%, 14.5 requests per connection
+(2 errors, 24 warnings, 0 messages)

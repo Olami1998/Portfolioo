@@ -1,0 +1,17 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+olami.com.ng	TRUE	/blogg/	FALSE	1999999999	_lscache_vary	1c14bcf8688f70dcc611319aa21811f1
+olami.com.ng	TRUE	/shop/	FALSE	1999999999	wp_woocommerce_session_cf6007a1c955f386e07042d7b2839c50	t_0891b8066a8c08e1b2ea1518bc9fa3%7C%7C1751187473%7C%7C1751183873%7C%7Ce0801514baff1dce7bedb455f5d7cec5
+olami.com.ng	TRUE	/shop/	FALSE	1999999999	woocommerce_items_in_cart	1
+olami.com.ng	TRUE	/shop/	FALSE	1999999999	wcboost_wishlist_session	12b70336754e3cd6f44cd95238980de1
+olami.com.ng	TRUE	/shop/	FALSE	1999999999	woocommerce_recently_viewed	955%7C948%7C12649%7C957%7C6787%7C6730%7C6743%7C952%7C6831%7C12658%7C12657%7C12656%7C12654%7C12653%7C12650
+olami.com.ng	TRUE	/shop/	FALSE	1999999999	wcboost_compare_hash	1b72627c98ff682eb2c2cd08a97a1be5
+olami.com.ng	TRUE	/shop/	FALSE	1999999999	wcboost_wishlist_hash	536ca574ca2cea9339565c3b36de4ee0%3A%3A1c56e7cbc316f9a26b1c656d75c41b88
+olami.com.ng	TRUE	/shop/	FALSE	1999999999	woocommerce_cart_hash	ba6a28e609b0b48dbfa586d0c40f7b4e
+olami.com.ng	TRUE	/	FALSE	1999999999	PHPSESSID	581f3605556e1966c64a1415b85234ab
+.vimeo.com	TRUE	/	FALSE	1999999999	__cf_bm	3JRhWKVv64sRMHBr2GhOYOjwYFhsQGuu94E68oCXPWU-1751014806-1.0.1.1-lnbq1tSeH4TWon8i702El.RMzTax1Eckd2sOH3iI1VkDzKB0GhA.o.GLkeXJxBMk
+.vimeo.com	TRUE	/	FALSE	1999999999	_cfuvid	P9e02zRelE_HRbr9lly65rGKHHcFICqvHZ56pK_xq.A-1751014806043-0.0.1.1-604800000
+player.vimeo.com	TRUE	/	FALSE	1999999999	SameSite	None
+olami.com.ng	TRUE	/	FALSE	1999999999	_lscache_vary	50f4ea0196b0ce65392bdf6098a174b7
+olami.com.ng	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+

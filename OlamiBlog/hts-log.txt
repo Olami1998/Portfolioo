@@ -1,0 +1,67 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 10 Jun 2025 20:29:07 at https://olami.com.ng/blogg/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://olami.com.ng/blogg/ -O1 "C:\My Web Sites\OlamiBlog" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:29:31	Error: 	"Forbidden" (403) at link https://olami.com.ng/blogg/xmlrpc.php?rsd (from https://olami.com.ng/blogg/)
+20:30:05	Warning: 	Moved Permanently for https://olami.com.ng/blogg/home/
+20:30:05	Warning: 	File has moved from https://olami.com.ng/blogg/home/ to https://olami.com.ng/blogg/
+20:30:09	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=340
+20:30:09	Warning: 	File has moved from https://olami.com.ng/blogg/?p=340 to https://olami.com.ng/blogg/fashion/
+20:30:45	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=28
+20:30:45	Warning: 	File has moved from https://olami.com.ng/blogg/?p=28 to https://olami.com.ng/blogg/contact/
+20:30:46	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=48
+20:30:46	Warning: 	File has moved from https://olami.com.ng/blogg/?p=48 to https://olami.com.ng/blogg/about/
+20:30:46	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=262
+20:30:46	Warning: 	File has moved from https://olami.com.ng/blogg/?p=262 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-22/
+20:30:46	Error: 	"Forbidden" (403) at link https://olami.com.ng/blogg/xmlrpc.php (from https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-22/)
+20:30:49	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=263
+20:30:49	Warning: 	File has moved from https://olami.com.ng/blogg/?p=263 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-21/
+20:30:49	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=264
+20:30:49	Warning: 	File has moved from https://olami.com.ng/blogg/?p=264 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-20/
+20:30:49	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=265
+20:30:49	Warning: 	File has moved from https://olami.com.ng/blogg/?p=265 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-19/
+20:30:49	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=266
+20:30:49	Warning: 	File has moved from https://olami.com.ng/blogg/?p=266 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-18/
+20:30:49	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=261
+20:30:49	Warning: 	File has moved from https://olami.com.ng/blogg/?p=261 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-17/
+20:30:53	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=251
+20:30:53	Warning: 	File has moved from https://olami.com.ng/blogg/?p=251 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-16/
+20:30:54	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=253
+20:30:54	Warning: 	File has moved from https://olami.com.ng/blogg/?p=253 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-15/
+20:30:54	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=252
+20:30:54	Warning: 	File has moved from https://olami.com.ng/blogg/?p=252 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-14/
+20:30:54	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=254
+20:30:54	Warning: 	File has moved from https://olami.com.ng/blogg/?p=254 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-13/
+20:30:54	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=11
+20:30:54	Warning: 	File has moved from https://olami.com.ng/blogg/?p=11 to https://olami.com.ng/blogg/404-2/
+20:30:55	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=146
+20:30:55	Warning: 	File has moved from https://olami.com.ng/blogg/?p=146 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-10/
+20:30:55	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=238
+20:30:55	Warning: 	File has moved from https://olami.com.ng/blogg/?p=238 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-9/
+20:30:55	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=239
+20:30:55	Warning: 	File has moved from https://olami.com.ng/blogg/?p=239 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-8/
+20:30:55	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=241
+20:30:55	Warning: 	File has moved from https://olami.com.ng/blogg/?p=241 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-7/
+20:30:55	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=240
+20:30:55	Warning: 	File has moved from https://olami.com.ng/blogg/?p=240 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-6/
+20:30:55	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=242
+20:30:55	Warning: 	File has moved from https://olami.com.ng/blogg/?p=242 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-5/
+20:30:55	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=142
+20:30:55	Warning: 	File has moved from https://olami.com.ng/blogg/?p=142 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-4/
+20:30:55	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=143
+20:30:55	Warning: 	File has moved from https://olami.com.ng/blogg/?p=143 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-3/
+20:30:55	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=144
+20:30:55	Warning: 	File has moved from https://olami.com.ng/blogg/?p=144 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-2/
+20:30:55	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=88
+20:30:55	Warning: 	File has moved from https://olami.com.ng/blogg/?p=88 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection/
+20:30:55	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=255
+20:30:55	Warning: 	File has moved from https://olami.com.ng/blogg/?p=255 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-12/
+20:30:55	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=249
+20:30:55	Warning: 	File has moved from https://olami.com.ng/blogg/?p=249 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-11/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 48 seconds : 366 links scanned, 336 files written (26178259 bytes overall) [8494357 bytes received at 78651 bytes/sec], 22333854 bytes transferred using HTTP compression in 244 files, ratio 19%, 28.1 requests per connection
+(2 errors, 54 warnings, 0 messages)

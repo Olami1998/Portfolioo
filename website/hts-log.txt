@@ -1,0 +1,433 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 09 Jun 2025 18:23:21 at https://olami.com.ng +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://olami.com.ng -O1 "C:\My Web Sites\website" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:24:17	Error: 	"Forbidden" (403) at link https://olami.com.ng/xmlrpc.php?rsd (from https://olami.com.ng/)
+18:26:50	Warning: 	Moved Permanently for https://olami.com.ng/?p=40
+18:26:50	Warning: 	File has moved from https://olami.com.ng/?p=40 to https://olami.com.ng/about-me/
+18:26:50	Warning: 	Moved Permanently for https://olami.com.ng/?p=43
+18:26:50	Warning: 	File has moved from https://olami.com.ng/?p=43 to https://olami.com.ng/portfolios/
+18:26:51	Warning: 	Moved Permanently for https://olami.com.ng/?p=813
+18:26:51	Warning: 	File has moved from https://olami.com.ng/?p=813 to https://olami.com.ng/portfolios/graphic/
+18:26:52	Warning: 	Moved Permanently for https://olami.com.ng/?p=946
+18:26:52	Warning: 	File has moved from https://olami.com.ng/?p=946 to https://olami.com.ng/portfolios/data/
+18:26:52	Warning: 	Moved Permanently for https://olami.com.ng/?p=46
+18:26:52	Warning: 	File has moved from https://olami.com.ng/?p=46 to https://olami.com.ng/services/
+18:26:52	Warning: 	Moved Permanently for https://olami.com.ng/graphic/
+18:26:52	Warning: 	File has moved from https://olami.com.ng/graphic/ to https://olami.com.ng/portfolios/graphic/
+18:26:53	Warning: 	Moved Permanently for https://olami.com.ng/?p=861
+18:26:53	Warning: 	File has moved from https://olami.com.ng/?p=861 to https://olami.com.ng/web-services/
+18:26:53	Warning: 	Moved Permanently for https://olami.com.ng/?p=49
+18:26:53	Warning: 	File has moved from https://olami.com.ng/?p=49 to https://olami.com.ng/contact-me/
+18:26:54	Warning: 	Moved Permanently for https://olami.com.ng/?p=1155
+18:26:54	Warning: 	File has moved from https://olami.com.ng/?p=1155 to https://olami.com.ng/portfolio/portfolio6/
+18:26:54	Error: 	"Forbidden" (403) at link https://olami.com.ng/xmlrpc.php (from https://olami.com.ng/portfolio/portfolio6/)
+18:28:27	Warning: 	Moved Permanently for https://olami.com.ng/?p=104
+18:28:27	Warning: 	File has moved from https://olami.com.ng/?p=104 to https://olami.com.ng/portfolio/portfolio4/
+18:28:27	Warning: 	Moved Permanently for https://olami.com.ng/?p=103
+18:28:27	Warning: 	File has moved from https://olami.com.ng/?p=103 to https://olami.com.ng/portfolio/portfolio5/
+18:28:28	Warning: 	Moved Permanently for https://olami.com.ng/?p=101
+18:28:28	Warning: 	File has moved from https://olami.com.ng/?p=101 to https://olami.com.ng/portfolio/portfolio3/
+18:28:28	Warning: 	Moved Permanently for https://olami.com.ng/?p=100
+18:28:28	Warning: 	File has moved from https://olami.com.ng/?p=100 to https://olami.com.ng/portfolio/portfolio2/
+18:28:28	Warning: 	Moved Permanently for https://olami.com.ng/?p=99
+18:28:28	Warning: 	File has moved from https://olami.com.ng/?p=99 to https://olami.com.ng/portfolio/portfolio1/
+18:29:03	Warning: 	Moved Permanently for https://olami.com.ng/?p=1140
+18:29:03	Warning: 	File has moved from https://olami.com.ng/?p=1140 to https://olami.com.ng/the-hidden-cost-of-not-having-a-website-in-nigeria-dont-miss-out-on-opportunities/
+18:32:32	Warning: 	Moved Permanently for https://olami.com.ng/?p=1147
+18:32:32	Warning: 	File has moved from https://olami.com.ng/?p=1147 to https://olami.com.ng/customer-acquisition-retention-strategies/
+18:32:39	Warning: 	Moved Permanently for https://olami.com.ng/?p=1127
+18:32:39	Warning: 	File has moved from https://olami.com.ng/?p=1127 to https://olami.com.ng/top-free-tools-nigerian-entrepreneurs-2025/
+18:32:40	Warning: 	Moved Permanently for https://olami.com.ng/?p=1124
+18:32:40	Warning: 	File has moved from https://olami.com.ng/?p=1124 to https://olami.com.ng/logo-design-vs-branding-nigeria/
+18:32:48	Warning: 	Moved Permanently for https://olami.com.ng/?p=1122
+18:32:48	Warning: 	File has moved from https://olami.com.ng/?p=1122 to https://olami.com.ng/do-i-need-website-redesign-nigeria/
+18:32:48	Warning: 	Moved Permanently for https://olami.com.ng/?p=1119
+18:32:48	Warning: 	File has moved from https://olami.com.ng/?p=1119 to https://olami.com.ng/why-nigerian-businesses-need-website-2025/
+18:33:17	Error: 	"Forbidden" (403) at link https://olami.com.ng/blogg/xmlrpc.php?rsd (from https://olami.com.ng/blogg/)
+18:35:58	Warning: 	Moved Permanently for https://olami.com.ng/blogg/home/
+18:35:58	Warning: 	File has moved from https://olami.com.ng/blogg/home/ to https://olami.com.ng/blogg/
+18:36:07	Error: 	"Bad Request" (400) at link https://i1.wp.com/demo4.drfuri.com/razzi/wp-content/uploads/sites/14/2021/02/footer_bg_1920.png (from https://olami.com.ng/shop/)
+18:36:07	Error: 	"Forbidden" (403) at link https://olami.com.ng/shop/xmlrpc.php?rsd (from https://olami.com.ng/shop/)
+18:59:38	Error: 	"Bad Request" (400) at link https://i1.wp.com/demo4.drfuri.com/razzi/wp-content/uploads/sites/14/2020/12/home6_slider_1.jpg (from https://olami.com.ng/shop/)
+18:59:38	Warning: 	Link https://olami.com.ng/author/olami/page/2/ not scanned (follow robots meta tag)
+18:59:38	Error: 	"Not Found" (404) at link https://olami.com.ng/wp-json/wp/v2/users/1 (from https://olami.com.ng/author/olami/)
+18:59:38	Warning: 	Moved Permanently for https://olami.com.ng/?p=1078
+18:59:38	Warning: 	File has moved from https://olami.com.ng/?p=1078 to https://olami.com.ng/top-5-mistakes-to-avoid-when-hiring-a-web-designer-in-nigeria/
+19:00:38	Warning: 	Moved Permanently for https://olami.com.ng/?p=1072
+19:00:38	Warning: 	File has moved from https://olami.com.ng/?p=1072 to https://olami.com.ng/how-to-choose-the-best-web-developer-in-nigeria/
+19:00:40	Warning: 	Moved Permanently for https://olami.com.ng/?p=1027
+19:00:40	Warning: 	File has moved from https://olami.com.ng/?p=1027 to https://olami.com.ng/3-common-wordpress-errors-how-to-fix-them-save-time-sanity/
+19:00:42	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=340
+19:00:42	Warning: 	File has moved from https://olami.com.ng/blogg/?p=340 to https://olami.com.ng/blogg/fashion/
+19:03:35	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=28
+19:03:35	Warning: 	File has moved from https://olami.com.ng/blogg/?p=28 to https://olami.com.ng/blogg/contact/
+19:03:35	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=48
+19:03:35	Warning: 	File has moved from https://olami.com.ng/blogg/?p=48 to https://olami.com.ng/blogg/about/
+19:03:35	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=262
+19:03:35	Warning: 	File has moved from https://olami.com.ng/blogg/?p=262 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-22/
+19:03:35	Error: 	"Forbidden" (403) at link https://olami.com.ng/blogg/xmlrpc.php (from https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-22/)
+19:04:10	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=263
+19:04:10	Warning: 	File has moved from https://olami.com.ng/blogg/?p=263 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-21/
+19:04:10	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=264
+19:04:10	Warning: 	File has moved from https://olami.com.ng/blogg/?p=264 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-20/
+19:04:10	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=265
+19:04:10	Warning: 	File has moved from https://olami.com.ng/blogg/?p=265 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-19/
+19:04:10	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=266
+19:04:10	Warning: 	File has moved from https://olami.com.ng/blogg/?p=266 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-18/
+19:04:10	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=261
+19:04:10	Warning: 	File has moved from https://olami.com.ng/blogg/?p=261 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-17/
+19:04:29	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=251
+19:04:29	Warning: 	File has moved from https://olami.com.ng/blogg/?p=251 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-16/
+19:04:29	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=253
+19:04:29	Warning: 	File has moved from https://olami.com.ng/blogg/?p=253 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-15/
+19:04:29	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=252
+19:04:29	Warning: 	File has moved from https://olami.com.ng/blogg/?p=252 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-14/
+19:04:29	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=254
+19:04:29	Warning: 	File has moved from https://olami.com.ng/blogg/?p=254 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-13/
+19:04:29	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=11
+19:04:29	Warning: 	File has moved from https://olami.com.ng/blogg/?p=11 to https://olami.com.ng/blogg/404-2/
+19:04:29	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=13
+19:04:29	Warning: 	File has moved from https://olami.com.ng/shop/?p=13 to https://olami.com.ng/shop/my-account/
+19:04:29	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=17
+19:04:29	Warning: 	File has moved from https://olami.com.ng/shop/?p=17 to https://olami.com.ng/shop/wishlist/
+19:04:30	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=11
+19:04:30	Warning: 	File has moved from https://olami.com.ng/shop/?p=11 to https://olami.com.ng/shop/cart/
+19:22:02	Warning: 	Retry after error -4 (No data (connection closed)) at link https://olami.com.ng/shop/shop/?add-to-cart=953 (from https://olami.com.ng/shop/shop/)
+19:25:49	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=633
+19:25:49	Warning: 	File has moved from https://olami.com.ng/shop/?p=633 to https://olami.com.ng/shop/about-us/
+19:25:58	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=609
+19:25:58	Warning: 	File has moved from https://olami.com.ng/shop/?p=609 to https://olami.com.ng/shop/faq/
+19:27:04	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=546
+19:27:04	Warning: 	File has moved from https://olami.com.ng/shop/?p=546 to https://olami.com.ng/shop/shipping-returns/
+19:27:05	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=774
+19:27:05	Warning: 	File has moved from https://olami.com.ng/shop/?p=774 to https://olami.com.ng/shop/store-locator/
+19:27:05	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=584
+19:27:05	Warning: 	File has moved from https://olami.com.ng/shop/?p=584 to https://olami.com.ng/shop/contact-us/
+19:37:19	Error: 	Exit requested by shell or user
+19:37:27	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=12658
+19:37:27	Warning: 	File has moved from https://olami.com.ng/shop/?p=12658 to https://olami.com.ng/shop/product/mens-rod-chain/
+19:37:49	Warning: 	Found for https://olami.com.ng/shop/cart/?remove_item=e735133a3cde8ee533d95d2150e869e5&_wpnonce=1c035c183a
+19:37:49	Warning: 	File has moved from https://olami.com.ng/shop/cart/?remove_item=e735133a3cde8ee533d95d2150e869e5&_wpnonce=1c035c183a to http://olami.com.ng/shop/?removed_item=1
+19:37:50	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=949
+19:37:50	Warning: 	File has moved from https://olami.com.ng/shop/?p=949 to https://olami.com.ng/shop/product/yellow-reserved-hoodie/
+19:38:55	Warning: 	Found for https://olami.com.ng/shop/cart/?remove_item=3cef96dcc9b8035d23f69e30bb19218a&_wpnonce=1c035c183a
+19:38:55	Warning: 	File has moved from https://olami.com.ng/shop/cart/?remove_item=3cef96dcc9b8035d23f69e30bb19218a&_wpnonce=1c035c183a to http://olami.com.ng/shop/?removed_item=1
+19:38:55	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=6788
+19:38:55	Warning: 	File has moved from https://olami.com.ng/shop/?p=6788 to https://olami.com.ng/shop/product/boys-yellow-hooded/
+19:39:15	Warning: 	Found for https://olami.com.ng/shop/cart/?remove_item=0cddb7c06f1cd518e1efdc0e20b70c31&_wpnonce=1c035c183a
+19:39:15	Warning: 	File has moved from https://olami.com.ng/shop/cart/?remove_item=0cddb7c06f1cd518e1efdc0e20b70c31&_wpnonce=1c035c183a to http://olami.com.ng/shop/?removed_item=1
+19:39:15	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=6831
+19:39:15	Warning: 	File has moved from https://olami.com.ng/shop/?p=6831 to https://olami.com.ng/shop/product/soft-flap-crossbody/
+19:39:29	Warning: 	Found for https://olami.com.ng/shop/cart/?remove_item=4d0b954f0bef437c29dfa73fafdf3fa5&_wpnonce=1c035c183a
+19:39:29	Warning: 	File has moved from https://olami.com.ng/shop/cart/?remove_item=4d0b954f0bef437c29dfa73fafdf3fa5&_wpnonce=1c035c183a to http://olami.com.ng/shop/?removed_item=1
+19:39:29	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=6782
+19:39:29	Warning: 	File has moved from https://olami.com.ng/shop/?p=6782 to https://olami.com.ng/shop/product/stripe-panel-down-filled/
+19:39:42	Warning: 	Found for https://olami.com.ng/shop/cart/?remove_item=128ac9c427302b7a64314fc4593430b2&_wpnonce=1c035c183a
+19:39:42	Warning: 	File has moved from https://olami.com.ng/shop/cart/?remove_item=128ac9c427302b7a64314fc4593430b2&_wpnonce=1c035c183a to http://olami.com.ng/shop/?removed_item=1
+19:39:42	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=12645
+19:39:42	Warning: 	File has moved from https://olami.com.ng/shop/?p=12645 to https://olami.com.ng/shop/product/kit-kat/
+19:39:52	Warning: 	Found for https://olami.com.ng/shop/cart/?remove_item=1170a3c51dddd240000189d1884dfb1b&_wpnonce=1c035c183a
+19:39:52	Warning: 	File has moved from https://olami.com.ng/shop/cart/?remove_item=1170a3c51dddd240000189d1884dfb1b&_wpnonce=1c035c183a to http://olami.com.ng/shop/?removed_item=1
+19:39:52	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=12654
+19:39:52	Warning: 	File has moved from https://olami.com.ng/shop/?p=12654 to https://olami.com.ng/shop/product/travel-luggage-box-plus-kit-bag/
+19:40:02	Warning: 	Found for https://olami.com.ng/shop/cart/?remove_item=93fc5aed8c051ce4538e052cfe9f8692&_wpnonce=1c035c183a
+19:40:02	Warning: 	File has moved from https://olami.com.ng/shop/cart/?remove_item=93fc5aed8c051ce4538e052cfe9f8692&_wpnonce=1c035c183a to http://olami.com.ng/shop/?removed_item=1
+19:40:02	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=951
+19:40:02	Warning: 	File has moved from https://olami.com.ng/shop/?p=951 to https://olami.com.ng/shop/product/cotton-striped-t-shirt/
+19:40:15	Warning: 	Found for https://olami.com.ng/shop/cart/?remove_item=1c1d4df596d01da60385f0bb17a4a9e0&_wpnonce=1c035c183a
+19:40:15	Warning: 	File has moved from https://olami.com.ng/shop/cart/?remove_item=1c1d4df596d01da60385f0bb17a4a9e0&_wpnonce=1c035c183a to http://olami.com.ng/shop/?removed_item=1
+19:42:36	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=12657
+19:42:36	Warning: 	File has moved from https://olami.com.ng/shop/?p=12657 to https://olami.com.ng/shop/product/wrist-bangles/
+19:42:45	Warning: 	Found for https://olami.com.ng/shop/cart/?remove_item=09c66f4ca2b7bec442cbe8d09d5e0d54&_wpnonce=1c035c183a
+19:42:45	Warning: 	File has moved from https://olami.com.ng/shop/cart/?remove_item=09c66f4ca2b7bec442cbe8d09d5e0d54&_wpnonce=1c035c183a to http://olami.com.ng/shop/?removed_item=1
+19:42:45	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=12656
+19:42:45	Warning: 	File has moved from https://olami.com.ng/shop/?p=12656 to https://olami.com.ng/shop/product/wrist-watches/
+19:42:49	Warning: 	Found for https://olami.com.ng/shop/cart/?remove_item=8e86a13d18f6dcab5a77f0a4525c0b20&_wpnonce=1c035c183a
+19:42:49	Warning: 	File has moved from https://olami.com.ng/shop/cart/?remove_item=8e86a13d18f6dcab5a77f0a4525c0b20&_wpnonce=1c035c183a to http://olami.com.ng/shop/?removed_item=1
+19:42:49	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=12653
+19:42:49	Warning: 	File has moved from https://olami.com.ng/shop/?p=12653 to https://olami.com.ng/shop/product/red-bodycon-sleeveless-dress/
+19:42:52	Warning: 	Found for https://olami.com.ng/shop/cart/?remove_item=3be14122a3c78d9070cae09a16adcbb1&_wpnonce=1c035c183a
+19:42:52	Warning: 	File has moved from https://olami.com.ng/shop/cart/?remove_item=3be14122a3c78d9070cae09a16adcbb1&_wpnonce=1c035c183a to http://olami.com.ng/shop/?removed_item=1
+19:42:52	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=12651
+19:42:52	Warning: 	File has moved from https://olami.com.ng/shop/?p=12651 to https://olami.com.ng/shop/product/women-motorcycle-pu-jacket-biker-coat-leather-jackets/
+19:42:55	Warning: 	Found for https://olami.com.ng/shop/cart/?remove_item=6fbb698655e6b0fdd299a543951c27ec&_wpnonce=1c035c183a
+19:42:55	Warning: 	File has moved from https://olami.com.ng/shop/cart/?remove_item=6fbb698655e6b0fdd299a543951c27ec&_wpnonce=1c035c183a to http://olami.com.ng/shop/?removed_item=1
+19:42:55	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=12650
+19:42:55	Warning: 	File has moved from https://olami.com.ng/shop/?p=12650 to https://olami.com.ng/shop/product/18k-real-gold-plated-ladies-necklace-chain-womens-necklace/
+19:43:05	Warning: 	Found for https://olami.com.ng/shop/cart/?remove_item=0bf04bee73b4f705123f3183a081ce28&_wpnonce=1c035c183a
+19:43:05	Warning: 	File has moved from https://olami.com.ng/shop/cart/?remove_item=0bf04bee73b4f705123f3183a081ce28&_wpnonce=1c035c183a to http://olami.com.ng/shop/?removed_item=1
+19:43:05	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=12649
+19:43:05	Warning: 	File has moved from https://olami.com.ng/shop/?p=12649 to https://olami.com.ng/shop/product/big-thick-anti-blue-ray-computer-glasses/
+19:43:11	Warning: 	Found for https://olami.com.ng/shop/cart/?remove_item=a0f92eb7964639eff4effce7901714bc&_wpnonce=1c035c183a
+19:43:11	Warning: 	File has moved from https://olami.com.ng/shop/cart/?remove_item=a0f92eb7964639eff4effce7901714bc&_wpnonce=1c035c183a to http://olami.com.ng/shop/?removed_item=1
+19:43:11	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=146
+19:43:11	Warning: 	File has moved from https://olami.com.ng/blogg/?p=146 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-10/
+19:43:11	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=238
+19:43:11	Warning: 	File has moved from https://olami.com.ng/blogg/?p=238 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-9/
+19:43:11	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=239
+19:43:11	Warning: 	File has moved from https://olami.com.ng/blogg/?p=239 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-8/
+19:43:11	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=241
+19:43:11	Warning: 	File has moved from https://olami.com.ng/blogg/?p=241 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-7/
+19:43:11	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=240
+19:43:11	Warning: 	File has moved from https://olami.com.ng/blogg/?p=240 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-6/
+19:43:11	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=242
+19:43:11	Warning: 	File has moved from https://olami.com.ng/blogg/?p=242 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-5/
+19:43:11	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=142
+19:43:11	Warning: 	File has moved from https://olami.com.ng/blogg/?p=142 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-4/
+19:43:11	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=143
+19:43:11	Warning: 	File has moved from https://olami.com.ng/blogg/?p=143 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-3/
+19:43:11	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=144
+19:43:11	Warning: 	File has moved from https://olami.com.ng/blogg/?p=144 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-2/
+19:43:11	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=88
+19:43:11	Warning: 	File has moved from https://olami.com.ng/blogg/?p=88 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection/
+19:43:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://olami.com.ng/blogg/tag/new-trends/feed/ (from https://olami.com.ng/blogg/tag/new-trends/)
+19:43:11	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=255
+19:43:11	Warning: 	File has moved from https://olami.com.ng/blogg/?p=255 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-12/
+19:43:11	Warning: 	Moved Permanently for https://olami.com.ng/blogg/?p=249
+19:43:11	Warning: 	File has moved from https://olami.com.ng/blogg/?p=249 to https://olami.com.ng/blogg/millie-bobby-brown-is-dropping-a-jewelry-collection-11/
+19:43:14	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=12647
+19:43:14	Warning: 	File has moved from https://olami.com.ng/shop/?p=12647 to https://olami.com.ng/shop/product/apple-iphone-13-pro-max-6-7-super-retina-xdr-display-with-promotion-6gb-ram-512gb-rom-ios-15-5g-facetime-grey/
+19:43:23	Warning: 	Found for https://olami.com.ng/shop/cart/?remove_item=c97d0fb623809a739977f3cf12cba70c&_wpnonce=1c035c183a
+19:43:23	Warning: 	File has moved from https://olami.com.ng/shop/cart/?remove_item=c97d0fb623809a739977f3cf12cba70c&_wpnonce=1c035c183a to http://olami.com.ng/shop/shop/?removed_item=1
+19:43:24	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=968
+19:43:24	Warning: 	File has moved from https://olami.com.ng/shop/?p=968 to https://olami.com.ng/shop/product/bag-with-flap/
+19:43:50	Warning: 	Found for https://olami.com.ng/shop/cart/?remove_item=8f468c873a32bb0619eaeb2050ba45d1&_wpnonce=1c035c183a
+19:43:50	Warning: 	File has moved from https://olami.com.ng/shop/cart/?remove_item=8f468c873a32bb0619eaeb2050ba45d1&_wpnonce=1c035c183a to http://olami.com.ng/shop/shop/?removed_item=1
+19:43:50	Warning: 	Retry after error -4 (No data (connection closed)) at link https://olami.com.ng/shop/product/basic-dress-green/feed/ (from https://olami.com.ng/shop/product/basic-dress-green/)
+19:43:50	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://olami.com.ng/shop/?p=6726 (from https://olami.com.ng/shop/product/basic-dress-green/)
+19:43:50	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://olami.com.ng/shop/product/basic-dress-green/?add_to_compare=6726 (from https://olami.com.ng/shop/product/basic-dress-green/)
+19:43:50	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://olami.com.ng/shop/product-tag/dresses/ (from https://olami.com.ng/shop/product/basic-dress-green/)
+19:43:50	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://olami.com.ng/shop/product/basic-dress-green/?add-to-wishlist=954 (from https://olami.com.ng/shop/product/basic-dress-green/)
+19:43:50	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://olami.com.ng/shop/product/basic-dress-green/?add-to-cart=954 (from https://olami.com.ng/shop/product/basic-dress-green/)
+19:43:50	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://olami.com.ng/shop/product/basic-dress-green/?add-to-wishlist=952 (from https://olami.com.ng/shop/product/basic-dress-green/)
+19:43:50	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://olami.com.ng/shop/product/basic-dress-green/?add-to-cart=952 (from https://olami.com.ng/shop/product/basic-dress-green/)
+19:43:50	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://olami.com.ng/shop/product/basic-dress-green/?add-to-wishlist=6719 (from https://olami.com.ng/shop/product/basic-dress-green/)
+19:43:50	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://olami.com.ng/shop/product/basic-dress-green/?add-to-cart=6719 (from https://olami.com.ng/shop/product/basic-dress-green/)
+19:43:50	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://olami.com.ng/shop/product/basic-dress-green/?add-to-wishlist=6745 (from https://olami.com.ng/shop/product/basic-dress-green/)
+19:43:50	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://olami.com.ng/shop/product/basic-dress-green/?add-to-cart=6745 (from https://olami.com.ng/shop/product/basic-dress-green/)
+19:43:50	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://olami.com.ng/shop/product/basic-dress-green/?add-to-wishlist=948 (from https://olami.com.ng/shop/product/basic-dress-green/)
+19:43:50	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://olami.com.ng/shop/product/basic-dress-green/?add-to-cart=948 (from https://olami.com.ng/shop/product/basic-dress-green/)
+19:43:50	Warning: 	Retry after error -4 (Connect Error) at link https://olami.com.ng/shop/product/basic-dress-green/?add-to-cart=951 (from https://olami.com.ng/shop/product/basic-dress-green/)
+19:43:50	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://olami.com.ng/shop/cart/?remove_item=d7e77c835af3d2a803c1cf28d60575bc&_wpnonce=1c035c183a (from https://olami.com.ng/shop/product/basic-dress-green/)
+19:43:50	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://olami.com.ng/shop/shop/page/2/?add-to-wishlist=6726 (from https://olami.com.ng/shop/shop/?add-to-wishlist=6726)
+19:43:50	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://olami.com.ng/shop/wp-content/litespeed/css/3726c8ab10ada805cffd4bb5d55c2a02.css?ver=dbab7 (from https://olami.com.ng/shop/product/basic-knit-pompom/)
+19:43:50	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://olami.com.ng/shop/product/basic-knit-pompom/feed/ (from https://olami.com.ng/shop/product/basic-knit-pompom/)
+19:43:50	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://olami.com.ng/shop/wp-json/wp/v2/product/6789 (from https://olami.com.ng/shop/product/basic-knit-pompom/)
+19:43:50	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://olami.com.ng/shop/?p=6789 (from https://olami.com.ng/shop/product/basic-knit-pompom/)
+19:43:50	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://olami.com.ng/shop/wp-json/oembed/1.0/embed?url=https%3A%2F%2Folami.com.ng%2Fshop%2Fproduct%2Fbasic-knit-pompom%2F (from https://olami.com.ng/shop/product/basic-knit-pompom/)
+19:43:54	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://olami.com.ng/shop/product/basic-knit-pompom/?add-to-wishlist=6831 (from https://olami.com.ng/shop/product/basic-knit-pompom/)
+19:43:54	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://olami.com.ng/shop/product/basic-knit-pompom/?add-to-cart=6831 (from https://olami.com.ng/shop/product/basic-knit-pompom/)
+19:44:00	Warning: 	Retry after error -4 (No data (connection closed)) at link https://olami.com.ng/shop/product/basic-knit-pompom/?add-to-cart=967 (from https://olami.com.ng/shop/product/basic-knit-pompom/)
+19:44:02	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://olami.com.ng/shop/wp-json/wp/v2/product_cat/54 (from https://olami.com.ng/shop/product-category/kids/)
+19:44:05	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://olami.com.ng/shop/product-category/kids/?add-to-wishlist=6786 (from https://olami.com.ng/shop/product-category/kids/)
+19:44:08	Warning: 	Retry after error -2 (Receive Time Out) at link https://olami.com.ng/shop/product-category/kids/?add-to-wishlist=6780 (from https://olami.com.ng/shop/product-category/kids/)
+19:44:10	Warning: 	Retry after error -2 (Receive Time Out) at link https://olami.com.ng/shop/product-category/kids/?add-to-cart=6830 (from https://olami.com.ng/shop/product-category/kids/)
+19:44:11	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://olami.com.ng/shop/product-category/kids/?add-to-cart=6787 (from https://olami.com.ng/shop/product-category/kids/)
+19:44:15	Warning: 	Found for https://olami.com.ng/shop/cart/?remove_item=46d045ff5190f6ea93739da6c0aa19bc&_wpnonce=1c035c183a
+19:44:15	Warning: 	File has moved from https://olami.com.ng/shop/cart/?remove_item=46d045ff5190f6ea93739da6c0aa19bc&_wpnonce=1c035c183a to http://olami.com.ng/shop/shop/?removed_item=1
+19:44:15	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://olami.com.ng/shop/product/basic-long-sleeve/feed/ (from https://olami.com.ng/shop/product/basic-long-sleeve/)
+19:44:15	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://olami.com.ng/shop/?p=6730 (from https://olami.com.ng/shop/product/basic-long-sleeve/)
+19:44:15	Warning: 	Retry after error -4 (No data (connection closed)) at link https://olami.com.ng/shop/wp-json/oembed/1.0/embed?url=https%3A%2F%2Folami.com.ng%2Fshop%2Fproduct%2Fbasic-long-sleeve%2F (from https://olami.com.ng/shop/product/basic-long-sleeve/)
+19:44:15	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://olami.com.ng/shop/product/basic-long-sleeve/?add-to-wishlist=6730 (from https://olami.com.ng/shop/product/basic-long-sleeve/)
+19:44:15	Warning: 	Retry after error -2 (Receive Time Out) at link https://olami.com.ng/shop/product/basic-long-sleeve/?add_to_compare=6730 (from https://olami.com.ng/shop/product/basic-long-sleeve/)
+19:44:15	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://olami.com.ng/shop/product-tag/t-shirts/ (from https://olami.com.ng/shop/product/basic-long-sleeve/)
+19:44:15	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://olami.com.ng/shop/product/basic-long-sleeve/?add-to-wishlist=6745 (from https://olami.com.ng/shop/product/basic-long-sleeve/)
+19:44:22	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://olami.com.ng/shop/product/basic-long-sleeve/?add-to-wishlist=6764 (from https://olami.com.ng/shop/product/basic-long-sleeve/)
+19:44:28	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=12643
+19:44:28	Warning: 	File has moved from https://olami.com.ng/shop/?p=12643 to https://olami.com.ng/shop/product/black-sappier-gold-chain/
+19:44:37	Warning: 	Found for https://olami.com.ng/shop/cart/?remove_item=08b1366504a4a5a1e679e2eaad38b595&_wpnonce=1c035c183a
+19:44:37	Warning: 	File has moved from https://olami.com.ng/shop/cart/?remove_item=08b1366504a4a5a1e679e2eaad38b595&_wpnonce=1c035c183a to http://olami.com.ng/shop/shop/?removed_item=1
+19:44:38	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=965
+19:44:38	Warning: 	File has moved from https://olami.com.ng/shop/?p=965 to https://olami.com.ng/shop/product/blazer-coupe-amincie/
+19:44:46	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://olami.com.ng/shop/product/blazer-coupe-amincie/?add-to-wishlist=949 (from https://olami.com.ng/shop/product/blazer-coupe-amincie/)
+19:44:46	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://olami.com.ng/shop/product/blazer-coupe-amincie/?add-to-cart=949 (from https://olami.com.ng/shop/product/blazer-coupe-amincie/)
+19:44:46	Warning: 	Retry after error -2 (Receive Time Out) at link https://olami.com.ng/shop/product/blazer-coupe-amincie/?add-to-wishlist=966 (from https://olami.com.ng/shop/product/blazer-coupe-amincie/)
+19:44:55	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=6786
+19:44:55	Warning: 	File has moved from https://olami.com.ng/shop/?p=6786 to https://olami.com.ng/shop/product/children-burford-duffle/
+19:45:08	Warning: 	Found for https://olami.com.ng/shop/cart/?remove_item=af4f00ca48321fb026865c5a1772dafd&_wpnonce=1c035c183a
+19:45:08	Warning: 	File has moved from https://olami.com.ng/shop/cart/?remove_item=af4f00ca48321fb026865c5a1772dafd&_wpnonce=1c035c183a to http://olami.com.ng/shop/shop/?removed_item=1
+19:45:08	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=953
+19:45:08	Warning: 	File has moved from https://olami.com.ng/shop/?p=953 to https://olami.com.ng/shop/product/clarks-womens-step-cali/
+19:45:22	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=945
+19:45:22	Warning: 	File has moved from https://olami.com.ng/shop/?p=945 to https://olami.com.ng/shop/product/classic-ultrarange-rapid/
+19:45:40	Warning: 	Found for https://olami.com.ng/shop/shop/?remove_compare_item=4b6538a44a1dfdc2b83477cd76dee98e&_wpnonce=0762cc4d89
+19:45:40	Warning: 	File has moved from https://olami.com.ng/shop/shop/?remove_compare_item=4b6538a44a1dfdc2b83477cd76dee98e&_wpnonce=0762cc4d89 to http://olami.com.ng/shop/shop/?removed-compare-item=1
+19:45:43	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=6718
+19:45:43	Warning: 	File has moved from https://olami.com.ng/shop/?p=6718 to https://olami.com.ng/shop/product/collared-poplin-dress/
+19:46:01	Warning: 	Found for https://olami.com.ng/shop/cart/?remove_item=d582ac40970f9885836a61d7b2c662e4&_wpnonce=1c035c183a
+19:46:01	Warning: 	File has moved from https://olami.com.ng/shop/cart/?remove_item=d582ac40970f9885836a61d7b2c662e4&_wpnonce=1c035c183a to http://olami.com.ng/shop/shop/?removed_item=1
+19:46:01	Warning: 	Retry after error -4 (Connect Error) at link https://olami.com.ng/shop/wp-json/wp/v2/product/6780 (from https://olami.com.ng/shop/product/conte-of-florence-jarod/)
+19:46:01	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=6780
+19:46:01	Warning: 	File has moved from https://olami.com.ng/shop/?p=6780 to https://olami.com.ng/shop/product/conte-of-florence-jarod/
+19:46:12	Warning: 	Found for https://olami.com.ng/shop/cart/?remove_item=a6ce91443f690d0979d788694448382d&_wpnonce=1c035c183a
+19:46:12	Warning: 	File has moved from https://olami.com.ng/shop/cart/?remove_item=a6ce91443f690d0979d788694448382d&_wpnonce=1c035c183a to http://olami.com.ng/shop/shop/?removed_item=1
+19:47:00	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=1
+19:47:00	Warning: 	File has moved from https://olami.com.ng/shop/?p=1 to https://olami.com.ng/shop/hello-world/
+19:47:02	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=53
+19:47:02	Warning: 	File has moved from https://olami.com.ng/shop/?p=53 to https://olami.com.ng/shop/so-isnt-land-signs-greater-void-face-replenish/
+19:47:07	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=51
+19:47:07	Warning: 	File has moved from https://olami.com.ng/shop/?p=51 to https://olami.com.ng/shop/sea-good-every-which-said-first-divided/
+19:47:09	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=49
+19:47:09	Warning: 	File has moved from https://olami.com.ng/shop/?p=49 to https://olami.com.ng/shop/morning-let-you-created-every-day/
+19:47:10	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=47
+19:47:10	Warning: 	File has moved from https://olami.com.ng/shop/?p=47 to https://olami.com.ng/shop/third-darkness-and-second-dry-second-greater/
+19:47:12	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=44
+19:47:12	Warning: 	File has moved from https://olami.com.ng/shop/?p=44 to https://olami.com.ng/shop/heaven-upon-heaven-moveth-every-have/
+19:47:12	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=41
+19:47:12	Warning: 	File has moved from https://olami.com.ng/shop/?p=41 to https://olami.com.ng/shop/a-lesson-in-pant-silhouettes-with-our-design-team/
+19:47:13	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=11870
+19:47:13	Warning: 	File has moved from https://olami.com.ng/shop/?p=11870 to https://olami.com.ng/shop/5-tips-to-increase-your-online-sales/
+19:47:15	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=92
+19:47:15	Warning: 	File has moved from https://olami.com.ng/shop/?p=92 to https://olami.com.ng/shop/given-set-was-without-from-god-divide-rule-hath/
+19:47:16	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=89
+19:47:16	Warning: 	File has moved from https://olami.com.ng/shop/?p=89 to https://olami.com.ng/shop/tree-earth-fowl-given-moveth-deep-lesser-after/
+19:47:35	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=955
+19:47:35	Warning: 	File has moved from https://olami.com.ng/shop/?p=955 to https://olami.com.ng/shop/product/floral-dress-reserved/
+19:47:41	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://olami.com.ng/shop/product/floral-dress-reserved/?add-to-wishlist=947 (from https://olami.com.ng/shop/product/floral-dress-reserved/)
+19:47:45	Warning: 	Found for https://olami.com.ng/shop/cart/?remove_item=ef4e3b775c934dada217712d76f3d51f&_wpnonce=1c035c183a
+19:47:45	Warning: 	File has moved from https://olami.com.ng/shop/cart/?remove_item=ef4e3b775c934dada217712d76f3d51f&_wpnonce=1c035c183a to http://olami.com.ng/shop/product-category/womens/dresses/?add-to-wishlist=955&removed_item=1
+19:47:45	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=6719
+19:47:45	Warning: 	File has moved from https://olami.com.ng/shop/?p=6719 to https://olami.com.ng/shop/product/tarot-garden-dress/
+19:47:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://olami.com.ng/shop/product/tarot-garden-dress/?add_to_compare=6719 (from https://olami.com.ng/shop/product/tarot-garden-dress/)
+19:47:47	Warning: 	Retry after error -4 (Connect Error) at link https://olami.com.ng/shop/product/tarot-garden-dress/?add-to-wishlist=949 (from https://olami.com.ng/shop/product/tarot-garden-dress/)
+19:47:55	Warning: 	Found for https://olami.com.ng/shop/cart/?remove_item=f8b7aa3a0d349d9562b424160ad18612&_wpnonce=1c035c183a
+19:47:55	Warning: 	File has moved from https://olami.com.ng/shop/cart/?remove_item=f8b7aa3a0d349d9562b424160ad18612&_wpnonce=1c035c183a to http://olami.com.ng/shop/product-category/womens/dresses/?removed_item=1
+19:47:55	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=6743
+19:47:55	Warning: 	File has moved from https://olami.com.ng/shop/?p=6743 to https://olami.com.ng/shop/product/crew-neck-t-shirt/
+19:48:07	Warning: 	Found for https://olami.com.ng/shop/cart/?remove_item=a1a609f1ac109d0be28d8ae112db1bbb&_wpnonce=1c035c183a
+19:48:07	Warning: 	File has moved from https://olami.com.ng/shop/cart/?remove_item=a1a609f1ac109d0be28d8ae112db1bbb&_wpnonce=1c035c183a to http://olami.com.ng/shop/product-category/womens/t-shirts/?removed_item=1
+19:48:07	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=6745
+19:48:07	Warning: 	File has moved from https://olami.com.ng/shop/?p=6745 to https://olami.com.ng/shop/product/wide-cotton-tunic/
+19:48:20	Warning: 	Found for https://olami.com.ng/shop/cart/?remove_item=a4ed074907dc9bc3c86cc52904d763e3&_wpnonce=1c035c183a
+19:48:20	Warning: 	File has moved from https://olami.com.ng/shop/cart/?remove_item=a4ed074907dc9bc3c86cc52904d763e3&_wpnonce=1c035c183a to http://olami.com.ng/shop/product-category/womens/t-shirts/?removed_item=1
+19:48:20	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=12642
+19:48:20	Warning: 	File has moved from https://olami.com.ng/shop/?p=12642 to https://olami.com.ng/shop/product/jean-mini-skirt/
+19:48:23	Warning: 	Found for https://olami.com.ng/shop/cart/?remove_item=845375903f6dbadda379558e905089f2&_wpnonce=1c035c183a
+19:48:23	Warning: 	File has moved from https://olami.com.ng/shop/cart/?remove_item=845375903f6dbadda379558e905089f2&_wpnonce=1c035c183a to http://olami.com.ng/shop/product-category/womens/jeans/?removed_item=1
+19:48:23	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=947
+19:48:23	Warning: 	File has moved from https://olami.com.ng/shop/?p=947 to https://olami.com.ng/shop/product/t-shirts-coupe-amincie/
+19:48:36	Warning: 	Found for https://olami.com.ng/shop/cart/?remove_item=c4b31ce7d95c75ca70d50c19aef08bf1&_wpnonce=1c035c183a
+19:48:36	Warning: 	File has moved from https://olami.com.ng/shop/cart/?remove_item=c4b31ce7d95c75ca70d50c19aef08bf1&_wpnonce=1c035c183a to http://olami.com.ng/shop/product-category/womens/jeans/?removed_item=1
+19:48:36	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=950
+19:48:36	Warning: 	File has moved from https://olami.com.ng/shop/?p=950 to https://olami.com.ng/shop/product/regular-fit-body/
+19:48:43	Warning: 	Found for https://olami.com.ng/shop/product-category/kids/shoes-kid/?remove_compare_item=4b6538a44a1dfdc2b83477cd76dee98e&_wpnonce=0762cc4d89
+19:48:43	Warning: 	File has moved from https://olami.com.ng/shop/product-category/kids/shoes-kid/?remove_compare_item=4b6538a44a1dfdc2b83477cd76dee98e&_wpnonce=0762cc4d89 to http://olami.com.ng/shop/product-category/kids/shoes-kid/?add-to-wishlist=945&removed-compare-item=1
+19:48:43	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=6830
+19:48:43	Warning: 	File has moved from https://olami.com.ng/shop/?p=6830 to https://olami.com.ng/shop/product/hiking-boots/
+19:48:53	Warning: 	Found for https://olami.com.ng/shop/cart/?remove_item=5e9fb672ee46be628a141b594d7c6f3e&_wpnonce=1c035c183a
+19:48:53	Warning: 	File has moved from https://olami.com.ng/shop/cart/?remove_item=5e9fb672ee46be628a141b594d7c6f3e&_wpnonce=1c035c183a to http://olami.com.ng/shop/product-category/kids/shoes-kid/?removed_item=1
+19:48:54	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=6790
+19:48:54	Warning: 	File has moved from https://olami.com.ng/shop/?p=6790 to https://olami.com.ng/shop/product/preschool-flex-runner/
+19:49:04	Warning: 	Found for https://olami.com.ng/shop/cart/?remove_item=6097d8f3714205740f30debe1166744e&_wpnonce=1c035c183a
+19:49:04	Warning: 	File has moved from https://olami.com.ng/shop/cart/?remove_item=6097d8f3714205740f30debe1166744e&_wpnonce=1c035c183a to http://olami.com.ng/shop/product-category/kids/shoes-kid/?removed_item=1
+19:49:05	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=6764
+19:49:05	Warning: 	File has moved from https://olami.com.ng/shop/?p=6764 to https://olami.com.ng/shop/product/felted-wool-hat/
+19:49:17	Warning: 	Found for https://olami.com.ng/shop/cart/?remove_item=cb463625fc9dde2d82207e15bde1b674&_wpnonce=1c035c183a
+19:49:17	Warning: 	File has moved from https://olami.com.ng/shop/cart/?remove_item=cb463625fc9dde2d82207e15bde1b674&_wpnonce=1c035c183a to http://olami.com.ng/shop/product-category/mens/accessories-mens/?removed_item=1
+19:49:18	Warning: 	Moved Permanently for https://olami.com.ng/shop/?p=958
+19:49:18	Warning: 	File has moved from https://olami.com.ng/shop/?p=958 to https://olami.com.ng/shop/product/leather-belt/
+19:49:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://olami.com.ng/shop/product/leather-belt/?add-to-cart=6780 (from https://olami.com.ng/shop/product/leather-belt/)
+19:49:25	Warning: 	Found for https://olami.com.ng/shop/cart/?remove_item=d240e3d38a8882ecad8633c8f9c78c9b&_wpnonce=1c035c183a
+19:49:25	Warning: 	File has moved from https://olami.com.ng/shop/cart/?remove_item=d240e3d38a8882ecad8633c8f9c78c9b&_wpnonce=1c035c183a to http://olami.com.ng/shop/product-category/mens/accessories-mens/?removed_item=1
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/blogg/tag/new-trends/feed/
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/blogg/tag/new-trends/feed/ (from https://olami.com.ng/blogg/tag/new-trends/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/product/basic-dress-green/feed/
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/product/basic-dress-green/feed/ (from https://olami.com.ng/shop/product/basic-dress-green/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/?p=6726
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/?p=6726 (from https://olami.com.ng/shop/product/basic-dress-green/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/product/basic-dress-green/?add_to_compare=6726
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/product/basic-dress-green/?add_to_compare=6726 (from https://olami.com.ng/shop/product/basic-dress-green/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/product-tag/dresses/
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/product-tag/dresses/ (from https://olami.com.ng/shop/product/basic-dress-green/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/product/basic-dress-green/?add-to-wishlist=954
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/product/basic-dress-green/?add-to-wishlist=954 (from https://olami.com.ng/shop/product/basic-dress-green/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/product/basic-dress-green/?add-to-cart=954
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/product/basic-dress-green/?add-to-cart=954 (from https://olami.com.ng/shop/product/basic-dress-green/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/product/basic-dress-green/?add-to-wishlist=952
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/product/basic-dress-green/?add-to-wishlist=952 (from https://olami.com.ng/shop/product/basic-dress-green/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/product/basic-dress-green/?add-to-cart=952
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/product/basic-dress-green/?add-to-cart=952 (from https://olami.com.ng/shop/product/basic-dress-green/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/product/basic-dress-green/?add-to-wishlist=6719
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/product/basic-dress-green/?add-to-wishlist=6719 (from https://olami.com.ng/shop/product/basic-dress-green/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/product/basic-dress-green/?add-to-cart=6719
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/product/basic-dress-green/?add-to-cart=6719 (from https://olami.com.ng/shop/product/basic-dress-green/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/product/basic-dress-green/?add-to-wishlist=6745
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/product/basic-dress-green/?add-to-wishlist=6745 (from https://olami.com.ng/shop/product/basic-dress-green/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/product/basic-dress-green/?add-to-cart=6745
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/product/basic-dress-green/?add-to-cart=6745 (from https://olami.com.ng/shop/product/basic-dress-green/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/product/basic-dress-green/?add-to-wishlist=948
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/product/basic-dress-green/?add-to-wishlist=948 (from https://olami.com.ng/shop/product/basic-dress-green/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/product/basic-dress-green/?add-to-cart=948
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/product/basic-dress-green/?add-to-cart=948 (from https://olami.com.ng/shop/product/basic-dress-green/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/product/basic-dress-green/?add-to-cart=951
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/product/basic-dress-green/?add-to-cart=951 (from https://olami.com.ng/shop/product/basic-dress-green/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/cart/?remove_item=d7e77c835af3d2a803c1cf28d60575bc&_wpnonce=1c035c183a
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/cart/?remove_item=d7e77c835af3d2a803c1cf28d60575bc&_wpnonce=1c035c183a (from https://olami.com.ng/shop/product/basic-dress-green/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/shop/page/2/?add-to-wishlist=6726
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/shop/page/2/?add-to-wishlist=6726 (from https://olami.com.ng/shop/shop/?add-to-wishlist=6726)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/wp-content/litespeed/css/3726c8ab10ada805cffd4bb5d55c2a02.css?ver=dbab7
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/wp-content/litespeed/css/3726c8ab10ada805cffd4bb5d55c2a02.css?ver=dbab7 (from https://olami.com.ng/shop/product/basic-knit-pompom/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/product/basic-knit-pompom/feed/
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/product/basic-knit-pompom/feed/ (from https://olami.com.ng/shop/product/basic-knit-pompom/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/wp-json/wp/v2/product/6789
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/wp-json/wp/v2/product/6789 (from https://olami.com.ng/shop/product/basic-knit-pompom/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/?p=6789
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/?p=6789 (from https://olami.com.ng/shop/product/basic-knit-pompom/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/wp-json/oembed/1.0/embed?url=https%3A%2F%2Folami.com.ng%2Fshop%2Fproduct%2Fbasic-knit-pompom%2F
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/wp-json/oembed/1.0/embed?url=https%3A%2F%2Folami.com.ng%2Fshop%2Fproduct%2Fbasic-knit-pompom%2F (from https://olami.com.ng/shop/product/basic-knit-pompom/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/product/basic-knit-pompom/?add-to-wishlist=6831
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/product/basic-knit-pompom/?add-to-wishlist=6831 (from https://olami.com.ng/shop/product/basic-knit-pompom/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/product/basic-knit-pompom/?add-to-cart=6831
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/product/basic-knit-pompom/?add-to-cart=6831 (from https://olami.com.ng/shop/product/basic-knit-pompom/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/product/basic-knit-pompom/?add-to-cart=967
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/product/basic-knit-pompom/?add-to-cart=967 (from https://olami.com.ng/shop/product/basic-knit-pompom/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/wp-json/wp/v2/product_cat/54
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/wp-json/wp/v2/product_cat/54 (from https://olami.com.ng/shop/product-category/kids/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/product-category/kids/?add-to-wishlist=6786
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/product-category/kids/?add-to-wishlist=6786 (from https://olami.com.ng/shop/product-category/kids/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/product-category/kids/?add-to-wishlist=6780
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/product-category/kids/?add-to-wishlist=6780 (from https://olami.com.ng/shop/product-category/kids/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/product-category/kids/?add-to-cart=6830
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/product-category/kids/?add-to-cart=6830 (from https://olami.com.ng/shop/product-category/kids/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/product-category/kids/?add-to-cart=6787
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/product-category/kids/?add-to-cart=6787 (from https://olami.com.ng/shop/product-category/kids/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/product/basic-long-sleeve/feed/
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/product/basic-long-sleeve/feed/ (from https://olami.com.ng/shop/product/basic-long-sleeve/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/?p=6730
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/?p=6730 (from https://olami.com.ng/shop/product/basic-long-sleeve/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/wp-json/oembed/1.0/embed?url=https%3A%2F%2Folami.com.ng%2Fshop%2Fproduct%2Fbasic-long-sleeve%2F
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/wp-json/oembed/1.0/embed?url=https%3A%2F%2Folami.com.ng%2Fshop%2Fproduct%2Fbasic-long-sleeve%2F (from https://olami.com.ng/shop/product/basic-long-sleeve/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/product/basic-long-sleeve/?add-to-wishlist=6730
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/product/basic-long-sleeve/?add-to-wishlist=6730 (from https://olami.com.ng/shop/product/basic-long-sleeve/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/product/basic-long-sleeve/?add_to_compare=6730
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/product/basic-long-sleeve/?add_to_compare=6730 (from https://olami.com.ng/shop/product/basic-long-sleeve/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/product-tag/t-shirts/
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/product-tag/t-shirts/ (from https://olami.com.ng/shop/product/basic-long-sleeve/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/product/basic-long-sleeve/?add-to-wishlist=6745
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/product/basic-long-sleeve/?add-to-wishlist=6745 (from https://olami.com.ng/shop/product/basic-long-sleeve/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/product/basic-long-sleeve/?add-to-wishlist=6764
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/product/basic-long-sleeve/?add-to-wishlist=6764 (from https://olami.com.ng/shop/product/basic-long-sleeve/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/product/blazer-coupe-amincie/?add-to-wishlist=949
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/product/blazer-coupe-amincie/?add-to-wishlist=949 (from https://olami.com.ng/shop/product/blazer-coupe-amincie/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/product/blazer-coupe-amincie/?add-to-cart=949
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/product/blazer-coupe-amincie/?add-to-cart=949 (from https://olami.com.ng/shop/product/blazer-coupe-amincie/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/product/blazer-coupe-amincie/?add-to-wishlist=966
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/product/blazer-coupe-amincie/?add-to-wishlist=966 (from https://olami.com.ng/shop/product/blazer-coupe-amincie/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/wp-json/wp/v2/product/6780
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/wp-json/wp/v2/product/6780 (from https://olami.com.ng/shop/product/conte-of-florence-jarod/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/product/floral-dress-reserved/?add-to-wishlist=947
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/product/floral-dress-reserved/?add-to-wishlist=947 (from https://olami.com.ng/shop/product/floral-dress-reserved/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/product/tarot-garden-dress/?add_to_compare=6719
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/product/tarot-garden-dress/?add_to_compare=6719 (from https://olami.com.ng/shop/product/tarot-garden-dress/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/product/tarot-garden-dress/?add-to-wishlist=949
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/product/tarot-garden-dress/?add-to-wishlist=949 (from https://olami.com.ng/shop/product/tarot-garden-dress/)
+19:49:25	Warning: 	File not added due to mirror cancel: https://olami.com.ng/shop/product/leather-belt/?add-to-cart=6780
+19:49:25	Error: 	"mirror stopped by user" (-1) at link https://olami.com.ng/shop/product/leather-belt/?add-to-cart=6780 (from https://olami.com.ng/shop/product/leather-belt/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 26 minutes 4 seconds : 2677 links scanned, 2438 files written (383761473 bytes overall) [70906940 bytes received at 13731 bytes/sec], 363430314 bytes transferred using HTTP compression in 2025 files, ratio 13%, 2.4 requests per connection
+(56 errors, 366 warnings, 0 messages)

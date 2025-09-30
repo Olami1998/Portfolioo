@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+destinyabroadfoundation.org	TRUE	/	FALSE	1999999999	PHPSESSID	ad436267c4a2dd82c31da70259860ed4
+destinyabroadfoundation.org	TRUE	/	FALSE	1999999999	_lscache_vary	6b4087ec153644c3ffc7dde9700dab2c
+

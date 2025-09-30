@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+09:50:53	795/795	---M--	301	error ('Moved%20Permanently')	text/html	date:Fri,%2027%20Jun%202025%2008:50:52%20GMT	http://olami.com.ng/car	C:/My%20Web%20Sites/car/olami.com.ng/car.0.delayed	(from )
+09:51:03	0/0	---M--	301	error ('Moved%20Permanently')	text/html	date:Fri,%2027%20Jun%202025%2008:51:02%20GMT	http://olami.com.ng/robots.txt		(from )
+09:51:03	0/0	---M--	301	error ('Moved%20Permanently')	text/html	date:Fri,%2027%20Jun%202025%2008:51:02%20GMT	http://olami.com.ng/car/	C:/My%20Web%20Sites/car/olami.com.ng/car/index.html	(from )
